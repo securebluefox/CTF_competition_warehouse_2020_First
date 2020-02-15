@@ -1,0 +1,2 @@
+We found a secret oracle and it looks like it will encrypt your input…
+nc 47.98.192.231 25002

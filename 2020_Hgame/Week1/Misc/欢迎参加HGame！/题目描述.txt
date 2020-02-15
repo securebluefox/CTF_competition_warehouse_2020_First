@@ -1,0 +1,5 @@
+欢迎大家参加 HGAME 2020！
+来来来，签个到吧～
+Li0tIC4uLi0tIC4tLi4gLS4tLiAtLS0tLSAtLSAuIC4uLS0uLSAtIC0tLSAuLi0tLi0gLi4tLS0gLS0tLS0gLi4tLS0gLS0tLS0gLi4tLS4tIC4uLi4gLS0uIC4tIC0tIC4uLi0t
+注：若解题得到的是无hgame{}字样的flag花括号内内容，请手动添加hgame{}后提交。
+【Notice】解出来的字母均为大写

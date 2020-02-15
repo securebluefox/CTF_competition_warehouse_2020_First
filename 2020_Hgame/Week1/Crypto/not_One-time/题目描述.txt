@@ -1,0 +1,4 @@
+In cryptography, the one-time pad (OTP) is an encryption technique that cannot be cracked, but...
+Just XOR ;P
+nc 47.98.192.231 25001
+reduced key space

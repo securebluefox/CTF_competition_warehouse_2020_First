@@ -1,0 +1,1 @@
+听说上周Classic_CrackMe的CBC很简单? 来耍个CFB试试 XD <br> nc 47.98.192.231 25147

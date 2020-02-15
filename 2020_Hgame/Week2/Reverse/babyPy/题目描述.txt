@@ -1,0 +1,1 @@
+CPython uses a stack-based virtual machine.

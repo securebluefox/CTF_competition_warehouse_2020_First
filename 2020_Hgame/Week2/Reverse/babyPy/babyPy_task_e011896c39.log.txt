@@ -1,0 +1,62 @@
+In [1]: from secret import flag, encrypt
+
+In [2]: encrypt(flag)
+Out[2]: '7d037d045717722d62114e6a5b044f2c184c3f44214c2d4a22'
+
+In [3]: import dis
+
+In [4]: dis.dis(encrypt)
+  4           0 LOAD_FAST                0 (OOo)
+              2 LOAD_CONST               0 (None)
+              4 LOAD_CONST               0 (None)
+              6 LOAD_CONST               1 (-1)
+              8 BUILD_SLICE              3
+             10 BINARY_SUBSCR
+             12 STORE_FAST               1 (O0O)
+
+  5          14 LOAD_GLOBAL              0 (list)
+             16 LOAD_FAST                1 (O0O)
+             18 CALL_FUNCTION            1
+             20 STORE_FAST               2 (O0o)
+
+  6          22 SETUP_LOOP              50 (to 74)
+             24 LOAD_GLOBAL              1 (range)
+             26 LOAD_CONST               2 (1)
+             28 LOAD_GLOBAL              2 (len)
+             30 LOAD_FAST                2 (O0o)
+             32 CALL_FUNCTION            1
+             34 CALL_FUNCTION            2
+             36 GET_ITER
+        >>   38 FOR_ITER                32 (to 72)
+             40 STORE_FAST               3 (O0)
+
+  7          42 LOAD_FAST                2 (O0o)
+             44 LOAD_FAST                3 (O0)
+             46 LOAD_CONST               2 (1)
+             48 BINARY_SUBTRACT
+             50 BINARY_SUBSCR
+             52 LOAD_FAST                2 (O0o)
+             54 LOAD_FAST                3 (O0)
+             56 BINARY_SUBSCR
+             58 BINARY_XOR
+             60 STORE_FAST               4 (Oo)
+
+  8          62 LOAD_FAST                4 (Oo)
+             64 LOAD_FAST                2 (O0o)
+             66 LOAD_FAST                3 (O0)
+             68 STORE_SUBSCR
+             70 JUMP_ABSOLUTE           38
+        >>   72 POP_BLOCK
+
+  9     >>   74 LOAD_GLOBAL              3 (bytes)
+             76 LOAD_FAST                2 (O0o)
+             78 CALL_FUNCTION            1
+             80 STORE_FAST               5 (O)
+
+ 10          82 LOAD_FAST                5 (O)
+             84 LOAD_METHOD              4 (hex)
+             86 CALL_METHOD              0
+             88 RETURN_VALUE
+
+In [5]: exit()
+
