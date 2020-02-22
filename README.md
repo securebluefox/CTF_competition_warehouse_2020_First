@@ -55,6 +55,8 @@
 
 ## 友链传送门：
 
+[中南大学新人赛(ACTF_Junior_2020)](https://github.com/CSUAuroraLab/ACTF_Junior_2020)
+
 [安恒杯系列比赛(AnhengCTF)](https://github.com/hebtuerror404/Anheng_cup_month)
 
 [河北师范大学网络安全竞赛(HECTF)](https://github.com/HECTF)
