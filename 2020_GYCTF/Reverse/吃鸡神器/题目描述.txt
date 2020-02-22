@@ -1,0 +1,9 @@
+<p align="center">
+    <img src="http://gamectf.com/p/Timekeeper.png" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+卢姥爷收到了朋友发来的“吃鸡神器”，但是朋友忘了告诉他登录账户和密码，⽽且卢姥爷也不好意思去问。所以 请为卢姥爷以 "lubenwei" 为⽤户名注册个账户。flag格式为 "flag{对应密码}"
+</p>
+<p>
+    <a href="https://pan.baidu.com/s/1DGShvES09GuKg_1V1GutnQ" target="_blank">下载附件</a>，提取码：(zklz)
+</p>

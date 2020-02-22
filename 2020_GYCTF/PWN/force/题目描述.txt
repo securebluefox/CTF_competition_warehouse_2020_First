@@ -1,0 +1,9 @@
+<p align="center">
+    <img src="http://gamectf.com/p/WM.png" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+    nc 123.56.85.29 7147
+</p>
+<p>
+    <a href="https://pan.baidu.com/s/1OcWXdt42f5j9dnXzahm1RQ" target="_blank">下载附件</a>，提取码：(ihpw)
+</p>

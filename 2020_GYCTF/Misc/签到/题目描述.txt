@@ -1,0 +1,6 @@
+<p align="center">
+    <img src="http://gamectf.com/p/CGBU.png" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+    <a href="http://www.gamectf.com/" target="_blank">http://www.gamectf.com/</a>
+</p>

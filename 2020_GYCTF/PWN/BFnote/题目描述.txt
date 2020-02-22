@@ -1,0 +1,9 @@
+<p align="center">
+    <img src="http://gamectf.com/p/Venom.jpg" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+    nc 123.56.85.29 6987
+</p>
+<p>
+    <a href="https://pan.baidu.com/s/1Dp8MkMpJFYsIUOqHxq-fJw" target="_blank">下载附件</a>，提取码：(e0a4)
+</p>

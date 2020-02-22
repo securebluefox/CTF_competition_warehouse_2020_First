@@ -1,0 +1,12 @@
+<p align="center">
+    <img src="http://gamectf.com/p/Xp0int.png" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+    Try to read the flag under current directory, running under ubuntu 16.04.
+</p>
+<p>
+    nc 123.56.85.29 6687
+</p>
+<p>
+    <a href="https://pan.baidu.com/s/1hUCtbdIMW3aA3jkkEyQfCw" target="_blank">下载附件</a>，提取码：(y84q)
+</p>

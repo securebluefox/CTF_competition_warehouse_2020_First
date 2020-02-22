@@ -1,0 +1,5 @@
+你主导开发的CMCS(`Cyber Malware Control Software`)可以对全球各个角落的网络爬虫进行监控。但是今天，它似乎失灵了……
+
+**得到的flag请包上flag提交。**
+
+By *?*

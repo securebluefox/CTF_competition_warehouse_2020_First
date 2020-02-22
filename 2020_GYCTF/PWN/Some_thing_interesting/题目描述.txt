@@ -1,0 +1,9 @@
+<p align="center">
+    <img src="http://gamectf.com/p/WM.png" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+    nc 123.56.85.29 3041
+</p>
+<p>
+    <a href="https://pan.baidu.com/s/1eE60d0EufHiAauh8di-zLA" target="_blank">下载附件</a>，提取码：(buif)
+</p>
