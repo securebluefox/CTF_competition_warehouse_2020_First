@@ -1,0 +1,6 @@
+<p align="center">
+    <img src="http://gamectf.com/p/WM.png" style="width:100px; height:100px; border-radius:50%; overflow:hidden;"/>
+</p>
+<p>
+    <a href="http://47.95.14.176:8233" target="_blank">访问新闻网</a>
+</p>
