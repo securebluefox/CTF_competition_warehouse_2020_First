@@ -1,0 +1,4 @@
+<p>I've accidentally removed an important file using a strong shredder. Can you restore the file from its core dump?</p>
+
+Author : ptr-yudai
+Difficulty : hard

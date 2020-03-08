@@ -1,0 +1,3 @@
+The hobbit is small and clever.
+Author : ptr-yudai
+Difficulty : lunatic

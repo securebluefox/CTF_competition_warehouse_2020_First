@@ -1,0 +1,5 @@
+<p>This notepad is more useful than Windows one, right?</p>
+<a href="http://3.112.201.75:8001/" target="_blank">Challenge</a>
+
+Author : ptr-yudai
+Difficulty : easy

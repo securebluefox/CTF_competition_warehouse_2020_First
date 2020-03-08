@@ -1,0 +1,4 @@
+<p>This puzzle is a puzzling puzzle.</p>
+
+Author : ptr-yudai
+Difficulty : warmup

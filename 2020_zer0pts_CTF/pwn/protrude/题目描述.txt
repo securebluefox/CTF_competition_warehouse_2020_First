@@ -1,0 +1,4 @@
+<pre>nc 13.231.207.73 9005</pre>
+
+Author : ptr-yudai
+Difficulty : medium

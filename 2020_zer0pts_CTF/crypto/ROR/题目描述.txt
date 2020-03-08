@@ -1,0 +1,4 @@
+<p>LOL</p>
+
+Author : ptr-yudai
+Difficulty : warmup

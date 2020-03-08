@@ -1,0 +1,5 @@
+<p>When you're infected with a ransomware: Don't send money. Just break the cipher by yourself.</p>
+<p style="color:red">*** The attached file may harm your computer. DO NOT RUN IT on your host machine. ***</p>
+
+Author : ptr-yudai
+Difficulty : hard

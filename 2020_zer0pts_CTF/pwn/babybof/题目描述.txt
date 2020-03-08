@@ -1,0 +1,5 @@
+<p>Simple BOF with PIE/SSP disabled and libc disclosed. Who can't solve it?</p>
+<pre>nc 13.231.207.73 9002</pre>
+
+Author : ptr-yudai
+Difficulty : lunatic

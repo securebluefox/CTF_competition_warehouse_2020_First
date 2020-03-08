@@ -1,0 +1,4 @@
+<p>Do you know how relocation works?</p>
+
+Author : ptr-yudai
+Difficulty : easy

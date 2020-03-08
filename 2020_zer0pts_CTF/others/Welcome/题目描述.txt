@@ -1,0 +1,4 @@
+<p>Find the flag in our <a href="https://discord.gg/82pU3uB" target="_blank">Discord</a>!</p>
+
+Author : zer0pts
+Difficulty : warmup

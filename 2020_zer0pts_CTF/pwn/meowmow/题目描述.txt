@@ -1,0 +1,5 @@
+<pre>$ echo Jot down your ideas > /dev/memo && cat /dev/memo </pre>
+<pre>nc 54.249.58.143 9003</pre>
+
+Author : ptr-yudai
+Difficulty : medium

@@ -1,0 +1,1 @@
+Ubuntu 18，libc 到 https://buuoj.cn/resources 下载。

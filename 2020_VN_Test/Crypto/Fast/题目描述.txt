@@ -1,0 +1,1 @@
+This is a modified RSA scheme that once proposed at a cryptography conference to achieve faster decryption. But, there seems something wrong with it.

@@ -1,0 +1,5 @@
+<p>It's a good tool to learn syscall, isn't it?</p>
+<pre>nc 13.231.207.73 9006</pre>
+
+Author : ptr-yudai
+Difficulty : hard

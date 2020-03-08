@@ -1,0 +1,3 @@
+I wrote my vm and its program. Can you guess the source code and input?
+Author : theoremoon
+Difficulty : easy

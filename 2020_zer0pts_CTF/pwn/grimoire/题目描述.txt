@@ -1,0 +1,5 @@
+<p>The spell protects me from creatures.</p>
+<pre>nc 13.231.207.73 9008</pre>
+
+Author : ptr-yudai
+Difficulty : hard

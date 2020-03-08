@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
-# @Author  : ERROR404
-# @Version  : 1.0
+# @Author   : ERROR404
+# @Version  : 1.1
 import requests,os,ssl,html,urllib.request,time,shutil
 
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -47,12 +47,12 @@ def Check_and_make_dir(dir_path):
         pass
     else:
         os.makedirs(os.path.expanduser(dir_path), exist_ok=True)
-        Log_content  = '[!]创建了新目录: %s !\n' % ( dir_path )
         print('\033[0;33m' + '[!]创建了新目录: %s !' % ( dir_path ) + '\033[0m')
 
 def Save(race_name,evt):
     Log_content  = '本程序在 %s 启动，开始自动储存题目!\n' % (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) 
     save_success_num = 0
+    
     race_path = '~/Desktop/CTF_question/' + race_name + '/'
 
     try:
@@ -62,7 +62,10 @@ def Save(race_name,evt):
     except Exception as e:
         if DEBUG:
             print(e)
-        print('\033[0;31m' + '[-] 与服务器链接失败或服务器返回值异常!请检查Cookie或URL是否正确设置!' + '\033[0m')
+        if All_detail.json() == []:
+            print('\033[0;31m' + '[-] 已与服务器建立链接!但比赛仍未开始!' + '\033[0m')
+        else:
+            print('\033[0;31m' + '[-] 与服务器链接失败或服务器返回值异常!请检查Cookie或URL是否正确设置!' + '\033[0m')
         exit(0)
 
     Log_content += '[+] 当前已放出 %d 道题目，存储就绪!\n' % ( All_detail.json()['total'] )
@@ -116,7 +119,7 @@ def Save(race_name,evt):
                     hint_file = open(os.path.expanduser(hint_file_path),'w')
                     notice_text = ""
                     for notice in challenge['notice']:
-                        notice_text += notice + '\n'
+                        notice_text += notice['notice'] + '\n'
                     hint_file.write(html.unescape(notice_text))
                     Log_content += '[!] 题目 %s 的Hint写入成功!\n' % (challenge['task']['title'])
                     print('\033[0;32m' + '[!] 题目 %s 的Hint写入成功!' % (challenge['task']['title']) + '\033[0m')
@@ -137,8 +140,8 @@ def Save(race_name,evt):
                 Log_content += '[!] 题目 %s 共计有 %d 个附件!\n' % (challenge['task']['title'],remaining_file_number)
                 print('\033[0;33m' + '[!] 题目 %s 共计有 %d 个附件!' % (challenge['task']['title'],remaining_file_number) + '\033[0m')
                 for index in range(remaining_file_number):
-                    Log_content += '[!] 开始存储题目 %s 的第 %d 个附件!\n' % (challenge['task']['title'],remaining_file_number)
-                    print('\033[0;33m' + '[!] 开始存储题目 %s 的第 %d 个附件!' % (challenge['task']['title'],remaining_file_number) + '\033[0m')
+                    Log_content += '[!] 开始存储题目 %s 的第 %d 个附件!\n' % (challenge['task']['title'],index+1)
+                    print('\033[0;33m' + '[!] 开始存储题目 %s 的第 %d 个附件!' % (challenge['task']['title'],index+1) + '\033[0m')
                     if (save_file(file_url,challenge_path + '/' + get_filename(challenge['task']['file'][index]),challenge['task']['file'][index])):
                         Log_content += '[!] 题目 %s 的第 %d 个附件存储成功!\n' % (challenge['task']['title'],index+1)
                         print('\033[0;32m' + '[!] 题目 %s 的第 %d 个附件存储成功!' % (challenge['task']['title'],index+1) + '\033[0m')
