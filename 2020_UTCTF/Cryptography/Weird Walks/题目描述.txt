@@ -1,0 +1,5 @@
+Found this weird hash function, can you figure it out?
+
+```nc crypto.utctf.live 9005```
+
+_by dmanc_

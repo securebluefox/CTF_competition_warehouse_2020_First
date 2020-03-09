@@ -1,0 +1,4 @@
+本题有南京邮电大学X1cT34m战队提供
+
+DSA can be hacked if you have access to the size of the random key k.
+nc 121.37.174.33 10000

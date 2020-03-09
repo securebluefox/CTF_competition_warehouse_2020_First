@@ -1,0 +1,3 @@
+本题由东北大学NEX战队提供
+Easy Challenge from N.E.X ,
+nc 121.36.209.145 9999

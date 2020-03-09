@@ -1,0 +1,3 @@
+We found this snippet of code on our employee's laptop. It looks really scary. Can you figure out what it does?
+
+Written by `hk`
