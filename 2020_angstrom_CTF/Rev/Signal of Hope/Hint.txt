@@ -1,0 +1,1 @@
+GDB does some special things to signals that can trip you up.

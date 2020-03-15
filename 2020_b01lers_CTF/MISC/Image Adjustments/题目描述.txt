@@ -1,0 +1,7 @@
+I downloaded this sketchy software from that one company (you know) but it really messed up my image. Please help me recover it.
+
+NOTE: flag format for this challenge is flag{...}
+
+[67e53fe08d46df0dfb0bd368dca61a5e](https://storage.googleapis.com/b0ctf-deploy/image_adjustments.tgz)
+
+(created by nsnc)

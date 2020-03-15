@@ -1,0 +1,1 @@
+We managed to intercept some traffic on the GPIOs, can you find out what was transmitted?

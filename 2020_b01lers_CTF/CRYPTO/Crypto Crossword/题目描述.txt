@@ -1,0 +1,44 @@
+Can you use the clues to decode the flag?
+
+```
+     1   2   3   4   5
+   +---+---+---+---+---+  }
+   |   |   |   |   |   |  |   
+   |---+---+---+---+---|  |     
+ 6 |   |   |   |   |   |  |
+   |---+---+---+---+---|  \
+ 7 |   |   |   |   |   |   -> WKYQMRKNQLMESZLBSTIKSIPTSLELQLEFEHZZQPNBEZKNOTKJVDHWWRVAULIHXUTYUIHCJMEIXTHDVWCANBMHS
+   |---+---+---+---+---|  /   
+ 8 |   |   |   |   |   |  |
+   |---+---+---+---+---|  |
+ 9 |   |   |   |   |   |  |
+   +---+---+---+---+---+  }
+
+ 
+ 1: ;fH;aCh7-"@UWb^G@>N&F#kFRDf'?"DIal3D]iJ!C3=T>+EqL-F<G%(Ci=3(F!,RC+EqL;D'3b7+B;0.==s
+
+ 2: GUR FZNYYRFG EFN RKCBARAG RIRE VA JVQRFCERNQ HFR.
+
+ 3: 4261636b77617264733a2074776f20666f722062696e6172792c2074656e20666f7220646563696d616c2c20616e64
+    207369787465656e20666f72206865782e20
+
+ 4: KLHHRYOB GSV URIHG QZEZHXIRKG UFMXGRLM BLF VEVI XZOOVW.
+
+ 5: Ecceilnort cdemnostu ahtt eoprv ehinoprsw fo ,eksy cddeeru ot efiv .eelrstt
+
+ 6: FRPPRQ UHVHUYHG ZRUG LQ F++ DQG SBWKRQ.
+
+ 7: TW9kZXJuIGNyeXB0byBlc3BlY2lhbGx5IGxpa2VzIGdyb3VwcyBvZiBwcmltZSBfX19fXy4=
+
+ 8: ooOo00oo0oOo0ooo0O0000oooo0oO0oOoo0ooOo0000OOO0ooOo0000oO0000ooOo0oO0OO0OOO0ooO0ooo0000OOO0oOO
+    o0o0Oo0ooo0ooo0oOoo0000oooO0ooO0oOoo0Oo0o0oOo0oO0Oooo00oo0oOoo00oo0O0OoOO0oOoOoO0
+
+ 9: 7x4 2x1 6x1 3x2 # 2x1 7x4 # 2x1 6x2 7x4 9x1 3x2 7x3 # 6x2 8x2 6x1 2x2 3x2 7x3 # 3x3 4x3 8x3 3x2 
+    1x1
+```
+
+
+Hint:
+https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png
+
+(created by a0su + maczilla + dm)

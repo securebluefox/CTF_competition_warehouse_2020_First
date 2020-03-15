@@ -1,0 +1,4 @@
+I made a [stream cipher](https://files.actf.co/d3a7381b6dffcfdd427fd7f0e57221afcfbe8e4a3360dddfc55310b24cd4613b/chall.py)!
+
+`nc crypto.2020.chall.actf.co 20601`
+Author : lamchcl

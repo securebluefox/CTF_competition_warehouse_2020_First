@@ -1,0 +1,7 @@
+Welcome to our world! We put a flag in our room, but we kind of forgot y'all can't get in there without a key. Oops!
+
+[642e7267e4daab7146c2f351f9ae4a66](https://storage.googleapis.com/b0ctf-deploy/minecraft_purdue.tgz)
+
+Credit to /u/mykeyblader/ for the great map!
+
+(created by zjam)

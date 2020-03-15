@@ -1,0 +1,4 @@
+Those damn millenials and their USBs and NVMEs! They forgot to compile my IDE module. Now i can't access my secrets stored on a trusty CD-ROM. Can you help me?
+
+nc forgotten-module.zajebistyc.tf 31002
+53d5db9cbf703410b60a12ae9adda4fdd68353ba1c01e61c4383368088805ea0_forgotten_module.tar 2.6M

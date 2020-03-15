@@ -1,0 +1,7 @@
+Welcome to b01lers CTF! A couple of things:
+
+Unless otherwise specified, the flag format is pctf{...}.
+
+This is a 48-Hour CTF. Details can be found at https://ctf.b01lers.com.
+
+pctf{all_ur_hack_are_belong_to_us}

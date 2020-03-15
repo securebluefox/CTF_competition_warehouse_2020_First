@@ -1,0 +1,5 @@
+Help! The machine copied two lines onto each card, and destroyed the originals. Can you reassemble my program and run it, please? I dropped the stack, so some of these cards may be out of order...
+
+[46226b9c2f3c9fae07dcac4f77ce5e11](https://storage.googleapis.com/b0ctf-deploy/old_but_not_forgotten.tgz)
+
+(created by dm)

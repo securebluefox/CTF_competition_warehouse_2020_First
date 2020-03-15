@@ -1,0 +1,5 @@
+I've created a new compression algorithm. I came up with it while trying to figure out how quickly I could...ahem....ride every train in the station. Try it out!
+
+[a0c390469e6718ae6db20813a094b66c](https://storage.googleapis.com/b0ctf-deploy/compression.tgz)
+
+(created by nsnc)

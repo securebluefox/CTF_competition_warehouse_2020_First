@@ -1,0 +1,4 @@
+I made my stream cipher [better](https://files.actf.co/c7d5a192c562518b9d86370d27fa16dab969cc6e89359f467961677ce1ac8281/chall.py).
+
+`nc crypto.2020.chall.actf.co 20602`
+Author : lamchcl

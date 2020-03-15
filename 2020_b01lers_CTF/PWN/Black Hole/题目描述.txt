@@ -1,0 +1,9 @@
+Dave took a nap while flying home last Tuesday. When he woke up he was stuck. Save Dave
+
+`nc pwn.ctf.b01lers.com 1005`
+
+[9fb7f9675b14a3c60d143ee72c438f86](https://storage.googleapis.com/b0ctf-deploy/black-hole.tgz)
+
+Note: Challenge is running in an Ubuntu 18.04 docker container.
+
+Author: nsnc

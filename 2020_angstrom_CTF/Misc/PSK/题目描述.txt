@@ -1,0 +1,9 @@
+My friend sent my yet another mysterious recording...
+
+He told me he was inspired by PicoCTF 2019 and made his own transmissions.
+I've looked at it, and it seems to be really compact and efficient.
+
+Only 31 bps!!
+
+See if you can decode [what he sent to me](https://files.actf.co/eae0a3d5c6d525249b88d8f11881e3a99665c986f526d20d1b8bb98247a8e85a/transmission.wav). It's in actf{} format
+Author : JoshDaBosh

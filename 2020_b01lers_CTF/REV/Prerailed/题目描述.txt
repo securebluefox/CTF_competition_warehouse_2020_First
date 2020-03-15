@@ -1,0 +1,5 @@
+Oh man, I wrote a program and compiled it to this binary file, but I lost the source code! I usually use railed to run it but it's in the wrong format :( can you get my work back!? NOTE: You do not need to reverse engineer the railed binary to solve this challenge.
+
+[fcdf825ee849eee8cc9d655f31af2540](https://storage.googleapis.com/b0ctf-deploy/prerailed.tgz)
+
+(created by novafacing)

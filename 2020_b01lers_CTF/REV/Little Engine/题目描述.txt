@@ -1,0 +1,5 @@
+I'm a little engine short and stout! Here is my kneecap, here is my mouth. Hol' up a minute, hear me shout! What kind of train is this challenge about?
+
+[02c6da819c2ca55705de13c5be5bcb66](https://storage.googleapis.com/b0ctf-deploy/little_engine.tgz)
+
+(created by novafacing)

@@ -1,0 +1,4 @@
+Clam's a windows elitist and he just can't stand seeing all of these linux challenges! So, he decided to step in and create his [own rev challenge](https://files.actf.co/240350c93b77621aaca286cac8c01b70be3aab4acbe9355f7f141716d0a6920e/windows_of_opportunity.exe) with the "superior" operating system.
+
+Alternatively, find it at `/problems/2020/windows_lives_matter/` on the shell server (even though you won't actually be able to run it from the shell server).
+Author : aplet123

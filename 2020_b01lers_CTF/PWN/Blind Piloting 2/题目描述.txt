@@ -1,0 +1,3 @@
+Dave is almost home! He still can't see, but at least he's headed in the right direction
+
+[3504de16acb8b2e521528882eab3bc53](https://storage.googleapis.com/b0ctf-deploy/blind-piloting.tgz)

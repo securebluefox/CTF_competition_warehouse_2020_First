@@ -1,0 +1,9 @@
+Neil Armstrong. What a guy. But he was also a frat guy, and you know how they are.
+
+nc crypto.ctf.b01lers.com 4001
+
+[11829b6286d1cb5c7dd54e5b7d14630b](https://storage.googleapis.com/b0ctf-deploy/armstrong.tgz)
+
+https://cdn.discordapp.com/attachments/666500766843797506/688545261059833919/unknown.png
+
+(created by novafacing)

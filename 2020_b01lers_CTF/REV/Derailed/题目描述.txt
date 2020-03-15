@@ -1,0 +1,7 @@
+Don't fall off the tracks!!!
+
+[fc4a5acb92df9eeed7c2454eff51d057](https://storage.googleapis.com/b0ctf-deploy/derailed.tgz)
+
+Hint: flag_format/ascii/binary/decimal/ascii/decimal/ascii/flag_format
+
+(created by novafacing)

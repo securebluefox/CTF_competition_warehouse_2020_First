@@ -1,0 +1,4 @@
+Clam can't do this, he can't do that, wouldn't it be nice if there were something that he **could** do?
+
+`ssh chall@misc.2020.chall.actf.co -p 20209`
+Author : aplet123

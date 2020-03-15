@@ -1,0 +1,7 @@
+Dave now has permanent eye damage because he was in the game too long. He's trying to get home, but he can't see. Guide him
+
+`nc pwn.ctf.b01lers.com 1007`
+
+[3504de16acb8b2e521528882eab3bc53](https://storage.googleapis.com/b0ctf-deploy/blind-piloting.tgz)
+
+Author: nsnc

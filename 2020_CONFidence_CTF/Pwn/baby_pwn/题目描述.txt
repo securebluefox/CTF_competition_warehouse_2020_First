@@ -1,0 +1,8 @@
+objdump cannot see the code.
+
+How about you?
+
+You are allowed to bruteforce and we support up-to 32 concurrent connections per source IP.
+
+nc babypwn.zajebistyc.tf 31001
+8fcf7d466586cf15f3eec024e70c58a2c9568436e1cdcc9df8d7026d4b6b4685_baby_pwn.tar 2,1M

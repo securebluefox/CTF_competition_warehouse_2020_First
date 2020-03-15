@@ -1,0 +1,4 @@
+Clam was trying to make a neural network to automatically do reverse engineering for him, but he made a typo and the neural net ended up making a reverse engineering challenge instead of solving one! Can you [get the flag?](https://files.actf.co/0c1db256e64f3df76a174ed3983b7836d5f0f6b71439574fb27a00a0b7316bcf/autorev_assemble)
+
+Find it on the shell server at `/problems/2020/autorev_assemble/` or over tcp at `nc shell.actf.co 20203`.
+Author : aplet123

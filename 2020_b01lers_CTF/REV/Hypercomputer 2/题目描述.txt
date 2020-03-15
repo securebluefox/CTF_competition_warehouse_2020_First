@@ -1,0 +1,15 @@
+Think, Commander, <br>
+    before you enter <br>
+what is needed - <br>
+    and when that's run, <br>
+ones and zeroes  <br>
+    boogie to your will: <br>
+Droids thwarted / <br>
+    your flag'll be dumped. <br>
+
+<br>
+nc rev.ctf.b01lers.com 3002
+
+[6e26866baf7c532b339e87058e327831](https://storage.googleapis.com/b0ctf-deploy/hypercomputer_2.tgz)
+
+(created by dm)

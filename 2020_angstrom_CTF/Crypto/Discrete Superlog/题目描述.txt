@@ -1,0 +1,6 @@
+You've heard of discrete log...now get ready for the discrete superlog.
+
+Server 1: `nc crypto.2020.chall.actf.co 20603`
+
+Server 2: `nc 3.234.224.95 20603`
+Author : lamchcl

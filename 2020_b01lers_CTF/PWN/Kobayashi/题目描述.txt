@@ -1,0 +1,8 @@
+Dave got a VR headset and is unable to take it off. It's like he is trapped in an impossible game. Can you help him win so he can see his son, Davey
+
+`nc pwn.ctf.b01lers.com 1006`
+
+[b6c7b25a27927d4dfd68aa1f302f0475](https://storage.googleapis.com/b0ctf-deploy/kobayashi-maru.tgz)
+
+Author: maczilla
+

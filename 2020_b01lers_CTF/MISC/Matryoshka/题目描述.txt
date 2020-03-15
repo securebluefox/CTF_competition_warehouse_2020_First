@@ -1,0 +1,5 @@
+Super-secret password:  один два ... ...
+
+[0d975215bc72fd3d13205218c00a1b23](https://storage.googleapis.com/b0ctf-deploy/matryoshka.tgz)
+
+(created by dm)

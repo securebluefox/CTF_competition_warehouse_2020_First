@@ -1,0 +1,1 @@
+There's a reason the challenge isn't available over netcat.

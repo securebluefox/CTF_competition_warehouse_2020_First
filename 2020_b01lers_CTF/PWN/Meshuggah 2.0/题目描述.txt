@@ -1,0 +1,7 @@
+Dave escaped security, but only by crashing directly into an asteroid. Don't worry, he's still alive, but he's going to need a new starship
+
+`nc pwn.ctf.b01lers.com 1003`
+
+[79f51b8cb6279ce1c66a07a41560171d](https://storage.googleapis.com/b0ctf-deploy/meshuggah-2.tgz)
+
+Author: maczilla

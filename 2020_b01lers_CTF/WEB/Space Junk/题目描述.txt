@@ -1,0 +1,9 @@
+The stinkiest trash in the solar system.
+
+**(Hint 1) Edit 3-14-20 21:43 UTC**
+*We've received a transmission questioning the security of our sessions, we value our users security and privacy and we are monitoring this inquiry. -Management*
+
+**(Hint 2) Edit 3-15-20  00:01 UTC**
+*We've investigated the query and have decided that we haven't found anything vulnerable so we feel like it is secure. -Management*
+
+[web.ctf.b01lers.com:1004](web.ctf.b01lers.com:1004)

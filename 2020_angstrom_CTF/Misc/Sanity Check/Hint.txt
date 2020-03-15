@@ -1,0 +1,1 @@
+Flags are in the format `actf{this_is_the_flag}`. Check the channel topic of #general.

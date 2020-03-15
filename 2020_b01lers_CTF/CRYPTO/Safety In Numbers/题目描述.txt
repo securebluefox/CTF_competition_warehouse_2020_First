@@ -1,0 +1,5 @@
+My friend says that this message is totally eavesdropper-safe...
+
+[24c4e8e98a4c20db7405ddc5fc59f459](https://storage.googleapis.com/b0ctf-deploy/safety_in_numbers.tgz)
+
+(created by dm)

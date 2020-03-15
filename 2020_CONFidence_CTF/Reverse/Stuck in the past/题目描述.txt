@@ -1,0 +1,7 @@
+Few days ago I was checking some old backups and found a weird program that was written by me long time ago.
+
+It was compiler... kind of... actually I really can't believe it works.
+
+I've also found some sample programs "compiled" by this abomination, unfortunately without the sources. One of them looks to be pretty complicated and asks for password.
+
+Could you find the password for me?

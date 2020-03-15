@@ -1,0 +1,4 @@
+Can you enter [the secret agent portal](https://agents.2020.chall.actf.co)? I've heard someone has a flag :eyes:
+
+Our insider leaked [the source](https://files.actf.co/4d1a95c88759081f7372e3810f7f2c6b08fc9b95606509eff8383a5b31b3855a/app.py), but was "terminated" shortly thereafter...
+Author : JoshDaBosh

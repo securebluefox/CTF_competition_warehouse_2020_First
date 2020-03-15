@@ -1,0 +1,12 @@
+There is always hope, Commander, <br>
+until the ship annihilates - <br>
+rig the hybrid simulator <br>
+if you seek good coordinates. <br>
+(Needs patience... I'll skip the lecture, <br>
+ good we have real architecture!) <br>
+<br>
+nc rev.ctf.b01lers.com 3001
+
+[e83167475f3e01255a8546407191cab8](https://storage.googleapis.com/b0ctf-deploy/hypercomputer.tgz)
+
+(created by dm)

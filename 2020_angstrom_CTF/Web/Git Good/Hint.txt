@@ -1,0 +1,1 @@
+Static file serving is a very dangerous thing when in the wrong directory.

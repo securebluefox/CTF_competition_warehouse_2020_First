@@ -1,0 +1,8 @@
+Why don'7 y0u ju5t... ?
+
+
+By the way, "Attack at DAWN!!" maps to "\x15\x08\x54\xff\x3c\xf4\xc4\xc0\xd2\x3b\xd6\x8a\x82\x34\x83\xbe".
+
+[40344528da0532d3f023367c52e2d09e](https://storage.googleapis.com/b0ctf-deploy/DES_MMXX.tgz)
+
+(created by dm)

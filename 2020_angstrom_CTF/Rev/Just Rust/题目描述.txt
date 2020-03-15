@@ -1,0 +1,2 @@
+Clam really enjoys writing in C, but he realizes that he'll have to learn another language eventually. After all, he's grown pretty rusty after only programming in C for a year. So, he decided to write [a program](https://files.actf.co/372c0faac9bcc07f8b4d30ed8625e544b77c47b338faafec26625753eabd9406/just_rust) to create some ASCII art from user input. He also provided a [sample output](https://files.actf.co/e4a0bab7a29357d59bec1cbb930f6af4f74a743afc0f574549c8e49ccec3e6a9/output.txt)!
+Author : aplet123

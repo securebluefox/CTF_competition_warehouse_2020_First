@@ -1,0 +1,6 @@
+Clam became a parent and had a child. Or at least he dreamed about it. Anyway, clam wrote [a program](https://files.actf.co/39dffe067d0067dc90d09590c0f82dd729f17391f59a43a721337d63b3694ea0/a_happy_family) to describe his dream. In fact, he's so happy that he provided [source](https://files.actf.co/fcf60c4d1d9893cce1905838f424019c79b75da110fd6e1a2dba72cae8a824c9/a_happy_family.c)!
+
+Find it on the shell server at `/problems/2020/a_happy_family`.
+
+...wait a second, this feels familiar.
+Author : aplet123

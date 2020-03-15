@@ -1,0 +1,3 @@
+Let's enforce security boundaries with language features. What could possibly go wrong?
+
+nc crusty-sandbox.zajebistyc.tf 31003

@@ -1,0 +1,2 @@
+clam clam clam clam clam clam clam clam clam `nc misc.2020.chall.actf.co 20204` clam clam clam clam clam clam
+Author : aplet123

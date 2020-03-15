@@ -1,0 +1,7 @@
+Dave is running away from security at the DFV. Help him reach safety
+
+`nc pwn.ctf.b01lers.com 1002`
+
+[53542656d8f6b156e6a8acd15cb57f49](https://storage.googleapis.com/b0ctf-deploy/jumpdrive.tgz)
+
+Author: maczilla + akhbaar

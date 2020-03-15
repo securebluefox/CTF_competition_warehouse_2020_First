@@ -1,0 +1,6 @@
+Agriculture is the most healthful, most useful and most noble employment of man.
+
+—George Washington
+
+Can you call the flag function in this [program](https://files.actf.co/244d7e58d711ecd9f1258bcdfec31119f4ebc015e6cd2067b0f8d427a7b43e3a/no_canary) ([source](https://files.actf.co/6ea07f713fcef63537e3d70e4502b8caf7c6fb0e0c751e4c3a0e514565f08f17/no_canary.c))? Try it out on the shell server at `/problems/2020/no_canary` or by connecting with `nc shell.actf.co 20700`.
+Author : kmh

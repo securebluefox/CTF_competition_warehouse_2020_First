@@ -1,0 +1,232 @@
+本程序在 2020-03-14 13:42:17 启动，开始自动储存题目!
+[-] 题目 Patcherman 已存在!
+[-] 题目 Shifter 已存在!
+[-] 题目 The Magic Word 已存在!
+[-] 题目 clam clam clam 已存在!
+[-] 题目 Defund's Crypt 已存在!
+[-] 题目 Signal of Hope 已存在!
+[!] 开始写入题目 PSK 的题目描述!
+[!] 题目 PSK 的题目描述写入成功!
+[!] 开始写入题目 Sanity Check 的题目描述!
+[!] 题目 Sanity Check 的题目描述写入成功!
+[!] 开始写入题目 Sanity Check 的Hint!
+[!] 题目 Sanity Check 的Hint写入成功!
+[!] 开始写入题目 No Canary 的题目描述!
+[!] 题目 No Canary 的题目描述写入成功!
+[!] 开始写入题目 No Canary 的Hint!
+[!] 题目 No Canary 的Hint写入成功!
+[!] 开始写入题目 RSA-OTP 的题目描述!
+[!] 题目 RSA-OTP 的题目描述写入成功!
+[!] 开始写入题目 Noisy 的题目描述!
+[!] 题目 Noisy 的题目描述写入成功!
+[!] 开始写入题目 Noisy 的Hint!
+[!] 题目 Noisy 的Hint写入成功!
+[!] 开始写入题目 Deja Vu 的题目描述!
+[!] 题目 Deja Vu 的题目描述写入成功!
+[!] 开始写入题目 Deja Vu 的Hint!
+[!] 题目 Deja Vu 的Hint写入成功!
+[!] 开始写入题目 Xmas Still Stands 的题目描述!
+[!] 题目 Xmas Still Stands 的题目描述写入成功!
+[!] 开始写入题目 Autorev, Assemble! 的题目描述!
+[!] 题目 Autorev, Assemble! 的题目描述写入成功!
+[!] 开始写入题目 Autorev, Assemble! 的Hint!
+[!] 题目 Autorev, Assemble! 的Hint写入成功!
+[!] 开始写入题目 Revving Up 的题目描述!
+[!] 题目 Revving Up 的题目描述写入成功!
+[!] 开始写入题目 Revving Up 的Hint!
+[!] 题目 Revving Up 的Hint写入成功!
+[!] 开始写入题目 Reasonably Strong Algorithm 的题目描述!
+[!] 题目 Reasonably Strong Algorithm 的题目描述写入成功!
+[!] 开始写入题目 Confused Streaming 的题目描述!
+[!] 题目 Confused Streaming 的题目描述写入成功!
+[!] 开始写入题目 A Happy Family 的题目描述!
+[!] 题目 A Happy Family 的题目描述写入成功!
+[!] 开始写入题目 A Happy Family 的Hint!
+[!] 题目 A Happy Family 的Hint写入成功!
+[!] 开始写入题目 Inputter 的题目描述!
+[!] 题目 Inputter 的题目描述写入成功!
+[!] 开始写入题目 Inputter 的Hint!
+[!] 题目 Inputter 的Hint写入成功!
+[!] 开始写入题目 LIBrary in C 的题目描述!
+[!] 题目 LIBrary in C 的题目描述写入成功!
+[!] 开始写入题目 LIBrary in C 的Hint!
+[!] 题目 LIBrary in C 的Hint写入成功!
+[!] 开始写入题目 Windows of Opportunity 的题目描述!
+[!] 题目 Windows of Opportunity 的题目描述写入成功!
+[!] 开始写入题目 Windows of Opportunity 的Hint!
+[!] 题目 Windows of Opportunity 的Hint写入成功!
+[!] 开始写入题目 CaaSio 的题目描述!
+[!] 题目 CaaSio 的题目描述写入成功!
+[!] 开始写入题目 CaaSio 的Hint!
+[!] 题目 CaaSio 的Hint写入成功!
+[!] 开始写入题目 Bop It 的题目描述!
+[!] 题目 Bop It 的题目描述写入成功!
+[!] 开始写入题目 ws2 的题目描述!
+[!] 题目 ws2 的题目描述写入成功!
+[!] 开始写入题目 ws2 的Hint!
+[!] 题目 ws2 的Hint写入成功!
+[!] 开始写入题目 msd 的题目描述!
+[!] 题目 msd 的题目描述写入成功!
+[!] 开始写入题目 msd 的Hint!
+[!] 题目 msd 的Hint写入成功!
+[!] 开始写入题目 A Peculiar Query 的题目描述!
+[!] 题目 A Peculiar Query 的题目描述写入成功!
+[!] 开始写入题目 Woooosh 的题目描述!
+[!] 题目 Woooosh 的题目描述写入成功!
+[!] 开始写入题目 Woooosh 的Hint!
+[!] 题目 Woooosh 的Hint写入成功!
+[!] 开始写入题目 Wacko Images 的题目描述!
+[!] 题目 Wacko Images 的题目描述写入成功!
+[!] 开始写入题目 Secret Agents 的题目描述!
+[!] 题目 Secret Agents 的题目描述写入成功!
+[!] 开始写入题目 Secret Agents 的Hint!
+[!] 题目 Secret Agents 的Hint写入成功!
+[!] 开始写入题目 ws3 的题目描述!
+[!] 题目 ws3 的题目描述写入成功!
+[!] 开始写入题目 ws3 的Hint!
+[!] 题目 ws3 的Hint写入成功!
+[!] 开始写入题目 ws1 的题目描述!
+[!] 题目 ws1 的题目描述写入成功!
+[!] 开始写入题目 Taking Off 的题目描述!
+[!] 题目 Taking Off 的题目描述写入成功!
+[!] 开始写入题目 Taking Off 的Hint!
+[!] 题目 Taking Off 的Hint写入成功!
+[!] 开始写入题目 Keysar 的题目描述!
+[!] 题目 Keysar 的题目描述写入成功!
+[!] 开始写入题目 Consolation 的题目描述!
+[!] 题目 Consolation 的题目描述写入成功!
+[!] 开始写入题目 Consolation 的Hint!
+[!] 题目 Consolation 的Hint写入成功!
+[!] 开始写入题目 Just Rust 的题目描述!
+[!] 题目 Just Rust 的题目描述写入成功!
+[!] 开始写入题目 Just Rust 的Hint!
+[!] 题目 Just Rust 的Hint写入成功!
+[!] 开始写入题目 Masochistic Sudoku 的题目描述!
+[!] 题目 Masochistic Sudoku 的题目描述写入成功!
+[!] 开始写入题目 Masochistic Sudoku 的Hint!
+[!] 题目 Masochistic Sudoku 的Hint写入成功!
+[!] 开始写入题目 Califrobnication 的题目描述!
+[!] 题目 Califrobnication 的题目描述写入成功!
+[!] 开始写入题目 Califrobnication 的Hint!
+[!] 题目 Califrobnication 的Hint写入成功!
+[!] 开始写入题目 Git Good 的题目描述!
+[!] 题目 Git Good 的题目描述写入成功!
+[!] 开始写入题目 Git Good 的Hint!
+[!] 题目 Git Good 的Hint写入成功!
+[!] 开始写入题目 Canary 的题目描述!
+[!] 题目 Canary 的题目描述写入成功!
+[!] 开始写入题目 Canary 的Hint!
+[!] 题目 Canary 的Hint写入成功!
+本程序在 2020-03-14 13:42:19 成功存储了 33 道题目。
+
+本程序在 2020-03-14 19:00:21 启动，开始自动储存题目!
+[-] 题目 Patcherman 已存在!
+[-] 题目 Shifter 已存在!
+[-] 题目 The Magic Word 已存在!
+[-] 题目 clam clam clam 已存在!
+[-] 题目 Defund's Crypt 已存在!
+[-] 题目 Signal of Hope 已存在!
+[-] 题目 PSK 已存在!
+[-] 题目 Sanity Check 已存在!
+[-] 题目 No Canary 已存在!
+[-] 题目 RSA-OTP 已存在!
+[-] 题目 Noisy 已存在!
+[-] 题目 Deja Vu 已存在!
+[-] 题目 Xmas Still Stands 已存在!
+[-] 题目 Autorev, Assemble! 已存在!
+[-] 题目 Revving Up 已存在!
+[-] 题目 Reasonably Strong Algorithm 已存在!
+[-] 题目 Confused Streaming 已存在!
+[-] 题目 A Happy Family 已存在!
+[-] 题目 Inputter 已存在!
+[-] 题目 LIBrary in C 已存在!
+[-] 题目 CaaSio 已存在!
+[-] 题目 Windows of Opportunity 已存在!
+[-] 题目 Bop It 已存在!
+[-] 题目 ws2 已存在!
+[-] 题目 msd 已存在!
+[-] 题目 A Peculiar Query 已存在!
+[-] 题目 Woooosh 已存在!
+[-] 题目 Wacko Images 已存在!
+[-] 题目 Secret Agents 已存在!
+[-] 题目 ws3 已存在!
+[-] 题目 ws1 已存在!
+[-] 题目 Taking Off 已存在!
+[-] 题目 Keysar 已存在!
+[-] 题目 Consolation 已存在!
+[-] 题目 Just Rust 已存在!
+[-] 题目 Masochistic Sudoku 已存在!
+[!] 开始写入题目 LeetTube 的题目描述!
+[!] 题目 LeetTube 的题目描述写入成功!
+[!] 开始写入题目 LeetTube 的Hint!
+[!] 题目 LeetTube 的Hint写入成功!
+[-] 题目 Califrobnication 已存在!
+[-] 题目 Git Good 已存在!
+[-] 题目 Canary 已存在!
+本程序在 2020-03-14 19:00:23 成功存储了 1 道题目。
+
+本程序在 2020-03-15 09:52:35 启动，开始自动储存题目!
+[-] 题目 Patcherman 已存在!
+[!] 开始写入题目 bookface 的题目描述!
+[!] 题目 bookface 的题目描述写入成功!
+[!] 开始写入题目 bookface 的Hint!
+[!] 题目 bookface 的Hint写入成功!
+[-] 题目 Shifter 已存在!
+[-] 题目 The Magic Word 已存在!
+[-] 题目 clam clam clam 已存在!
+[-] 题目 Defund's Crypt 已存在!
+[!] 开始写入题目 Lo-Kee 的题目描述!
+[!] 题目 Lo-Kee 的题目描述写入成功!
+[-] 题目 Signal of Hope 已存在!
+[-] 题目 PSK 已存在!
+[!] 开始写入题目 Discrete Superlog 的题目描述!
+[!] 题目 Discrete Superlog 的题目描述写入成功!
+[!] 开始写入题目 Discrete Superlog 的Hint!
+[!] 题目 Discrete Superlog 的Hint写入成功!
+[-] 题目 Sanity Check 已存在!
+[-] 题目 No Canary 已存在!
+[-] 题目 RSA-OTP 已存在!
+[-] 题目 Noisy 已存在!
+[-] 题目 Deja Vu 已存在!
+[-] 题目 Xmas Still Stands 已存在!
+[-] 题目 Autorev, Assemble! 已存在!
+[-] 题目 Revving Up 已存在!
+[-] 题目 Reasonably Strong Algorithm 已存在!
+[-] 题目 Confused Streaming 已存在!
+[!] 开始写入题目 Dream Stream 的题目描述!
+[!] 题目 Dream Stream 的题目描述写入成功!
+[!] 开始写入题目 one time bad 的题目描述!
+[!] 题目 one time bad 的题目描述写入成功!
+[-] 题目 A Happy Family 已存在!
+[!] 开始写入题目 UBI 的题目描述!
+[!] 题目 UBI 的题目描述写入成功!
+[!] 开始写入题目 UBI 的Hint!
+[!] 题目 UBI 的Hint写入成功!
+[-] 题目 Inputter 已存在!
+[-] 题目 LIBrary in C 已存在!
+[-] 题目 Windows of Opportunity 已存在!
+[-] 题目 CaaSio 已存在!
+[-] 题目 Bop It 已存在!
+[-] 题目 ws2 已存在!
+[-] 题目 msd 已存在!
+[-] 题目 A Peculiar Query 已存在!
+[-] 题目 Woooosh 已存在!
+[!] 开始写入题目 All These Rules 的题目描述!
+[!] 题目 All These Rules 的题目描述写入成功!
+[!] 开始写入题目 All These Rules 的Hint!
+[!] 题目 All These Rules 的Hint写入成功!
+[-] 题目 Wacko Images 已存在!
+[-] 题目 Secret Agents 已存在!
+[-] 题目 ws3 已存在!
+[-] 题目 ws1 已存在!
+[-] 题目 Taking Off 已存在!
+[-] 题目 Keysar 已存在!
+[-] 题目 Consolation 已存在!
+[-] 题目 Just Rust 已存在!
+[-] 题目 Masochistic Sudoku 已存在!
+[-] 题目 LeetTube 已存在!
+[-] 题目 Califrobnication 已存在!
+[-] 题目 Git Good 已存在!
+[-] 题目 Canary 已存在!
+本程序在 2020-03-15 09:52:39 成功存储了 7 道题目。
+

@@ -1,0 +1,7 @@
+"I think I can. I think I can. I think I can. I know I can!"
+
+They can. Can you?
+
+[4b40107fefecbbe9bd294e6403179eca](https://storage.googleapis.com/b0ctf-deploy/chugga_chugga.tgz)
+
+(created by novafacing)

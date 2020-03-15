@@ -1,0 +1,4 @@
+[SIGHOPE](https://files.actf.co/7266b9b51369dd9d7e2c34a2476b351e319516402c442a103b1ebb6607c2c9db/signal_of_hope).
+
+Find it on the shell server at `/problems/2020/signal_of_hope/` or over tcp at `nc shell.actf.co 20202`.
+Author : aplet123

@@ -1,0 +1,6 @@
+A tear rolled down her face like a tractor. “David,” she said tearfully, “I don’t want to be a farmer no more.”
+
+—Anonymous
+
+Can you call the flag function in this [program](https://files.actf.co/9614bc019231c2b6301e0cb5405423add02b5d1f041da0d3d35986ef34f50b23/canary) ([source](https://files.actf.co/27f15f75b231a3179ed0e19f79d9ab4cbd058d5460d7de4bf65f1ff00a228315/canary.c))? Try it out on the shell server at `/problems/2020/canary` or by connecting with `nc shell.actf.co 20701`.
+Author : kmh

@@ -1,0 +1,1 @@
+You should look into tools like GHIDRA, `gdb`, and `objdump`.

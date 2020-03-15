@@ -1,0 +1,97 @@
+本程序在 2020-03-15 10:12:04 启动，开始自动储存题目!
+[!] 开始写入题目 Welcome! 的题目描述!
+[!] 题目 Welcome! 的题目描述写入成功!
+[!] 开始写入题目 Discord Flag 的题目描述!
+[!] 题目 Discord Flag 的题目描述写入成功!
+[!] 开始写入题目 Survey 的题目描述!
+[!] 题目 Survey 的题目描述写入成功!
+[!] 开始写入题目 Welcome to Earth 的题目描述!
+[!] 题目 Welcome to Earth 的题目描述写入成功!
+[!] 开始写入题目 Life on Mars 的题目描述!
+[!] 题目 Life on Mars 的题目描述写入成功!
+[!] 开始写入题目 Chugga Chugga 的题目描述!
+[!] 题目 Chugga Chugga 的题目描述写入成功!
+[!] 开始写入题目 Dank Engine 的题目描述!
+[!] 题目 Dank Engine 的题目描述写入成功!
+[!] 开始写入题目 Digital Sloth 的题目描述!
+[!] 题目 Digital Sloth 的题目描述写入成功!
+[!] 开始写入题目 Train Arms 的题目描述!
+[!] 题目 Train Arms 的题目描述写入成功!
+[!] 开始写入题目 Armstrong 的题目描述!
+[!] 题目 Armstrong 的题目描述写入成功!
+[!] 开始写入题目 Harvesting Season 的题目描述!
+[!] 题目 Harvesting Season 的题目描述写入成功!
+[!] 开始写入题目 Department of Flying Vehicles 的题目描述!
+[!] 题目 Department of Flying Vehicles 的题目描述写入成功!
+[!] 开始写入题目 Jumpdrive 的题目描述!
+[!] 题目 Jumpdrive 的题目描述写入成功!
+[!] 开始写入题目 Meshuggah 2.0 的题目描述!
+[!] 题目 Meshuggah 2.0 的题目描述写入成功!
+[!] 开始写入题目 Tweet Raider 的题目描述!
+[!] 题目 Tweet Raider 的题目描述写入成功!
+[!] 开始写入题目 Image Adjustments 的题目描述!
+[!] 题目 Image Adjustments 的题目描述写入成功!
+[!] 开始写入题目 Shaft Blocks 的题目描述!
+[!] 题目 Shaft Blocks 的题目描述写入成功!
+[!] 开始写入题目 X-Wing Part 1 的题目描述!
+[!] 题目 X-Wing Part 1 的题目描述写入成功!
+[!] 开始写入题目 Safety In Numbers 的题目描述!
+[!] 题目 Safety In Numbers 的题目描述写入成功!
+[!] 开始写入题目 Little Engine 的题目描述!
+[!] 题目 Little Engine 的题目描述写入成功!
+[!] 开始写入题目 Scrambled 的题目描述!
+[!] 题目 Scrambled 的题目描述写入成功!
+[!] 开始写入题目 Space Noodles 的题目描述!
+[!] 题目 Space Noodles 的题目描述写入成功!
+[!] 开始写入题目 Compression 的题目描述!
+[!] 题目 Compression 的题目描述写入成功!
+[!] 开始写入题目 Spirit Tracks 的题目描述!
+[!] 题目 Spirit Tracks 的题目描述写入成功!
+[!] 开始写入题目 Stahp the Train 的题目描述!
+[!] 题目 Stahp the Train 的题目描述写入成功!
+[!] 开始写入题目 What The Elf 的题目描述!
+[!] 题目 What The Elf 的题目描述写入成功!
+[!] 开始写入题目 DES-MMXX 的题目描述!
+[!] 题目 DES-MMXX 的题目描述写入成功!
+[!] 开始写入题目 Crypto Crossword 的题目描述!
+[!] 题目 Crypto Crossword 的题目描述写入成功!
+[!] 开始写入题目 200 Dollar Lunch 的题目描述!
+[!] 题目 200 Dollar Lunch 的题目描述写入成功!
+[!] 开始写入题目 Black Hole 的题目描述!
+[!] 题目 Black Hole 的题目描述写入成功!
+[!] 开始写入题目 Kobayashi 的题目描述!
+[!] 题目 Kobayashi 的题目描述写入成功!
+[!] 开始写入题目 Blind Piloting 1 的题目描述!
+[!] 题目 Blind Piloting 1 的题目描述写入成功!
+[!] 开始写入题目 Blind Piloting 2 的题目描述!
+[!] 题目 Blind Piloting 2 的题目描述写入成功!
+[!] 开始写入题目 Matryoshka 的题目描述!
+[!] 题目 Matryoshka 的题目描述写入成功!
+[!] 开始写入题目 X-Wing Part 2 的题目描述!
+[!] 题目 X-Wing Part 2 的题目描述写入成功!
+[!] 开始写入题目 X-Wing Part 3 的题目描述!
+[!] 题目 X-Wing Part 3 的题目描述写入成功!
+[!] 开始写入题目 Trolley 的题目描述!
+[!] 题目 Trolley 的题目描述写入成功!
+[!] 开始写入题目 Space Junk 的题目描述!
+[!] 题目 Space Junk 的题目描述写入成功!
+[!] 开始写入题目 Alien Tech 的题目描述!
+[!] 题目 Alien Tech 的题目描述写入成功!
+[!] 开始写入题目 Derailed 的题目描述!
+[!] 题目 Derailed 的题目描述写入成功!
+[!] 开始写入题目 Prerailed 的题目描述!
+[!] 题目 Prerailed 的题目描述写入成功!
+[!] 开始写入题目 Railed 的题目描述!
+[!] 题目 Railed 的题目描述写入成功!
+[!] 开始写入题目 Hypercomputer 的题目描述!
+[!] 题目 Hypercomputer 的题目描述写入成功!
+[!] 开始写入题目 Hypercomputer 2 的题目描述!
+[!] 题目 Hypercomputer 2 的题目描述写入成功!
+[!] 开始写入题目 2TP 的题目描述!
+[!] 题目 2TP 的题目描述写入成功!
+[!] 开始写入题目 Old But Not Forgotten 的题目描述!
+[!] 题目 Old But Not Forgotten 的题目描述写入成功!
+[!] 开始写入题目 X-Wing Part 4 的题目描述!
+[!] 题目 X-Wing Part 4 的题目描述写入成功!
+本程序在 2020-03-15 10:13:24 成功存储了 47 道题目。
+

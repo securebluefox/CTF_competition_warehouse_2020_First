@@ -1,0 +1,4 @@
+RSA is kinda bad but I strengthened it with the unbreakable [one time pad](https://files.actf.co/dc1dee781f635d1c770a8b092b6eaa92c9b3efce5680578f0d7e3b74a40c11e5/chall.py)!
+
+`nc crypto.2020.chall.actf.co 20600`
+Author : lamchcl

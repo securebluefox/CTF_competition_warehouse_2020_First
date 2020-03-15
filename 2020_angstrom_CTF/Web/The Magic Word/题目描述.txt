@@ -1,0 +1,2 @@
+[Ask and you shall receive](https://magicword.2020.chall.actf.co)...that is as long as you use the magic word.
+Author : aplet123

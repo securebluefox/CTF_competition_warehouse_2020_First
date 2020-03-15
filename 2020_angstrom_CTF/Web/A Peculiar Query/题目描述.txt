@@ -1,0 +1,2 @@
+Clam thinks he's really cool and compiled a database of "criminal records" with a [site](https://peculiarquery.2020.chall.actf.co) to top it all off. I've dropped the tables once before but this time he took some extra security measures and I think he even hid a flag in there. Can you get it? 
+Author : aplet123

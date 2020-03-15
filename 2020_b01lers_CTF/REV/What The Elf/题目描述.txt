@@ -1,0 +1,5 @@
+This file I stole from Elrond is supposed to print the flag. It doesn't run though...
+
+[8e480e1200dd0d9a256fde488cbcd816](https://storage.googleapis.com/b0ctf-deploy/what_the_elf.tgz)
+
+(created by dm)

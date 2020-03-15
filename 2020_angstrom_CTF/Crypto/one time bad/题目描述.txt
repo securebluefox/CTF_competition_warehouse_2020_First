@@ -1,0 +1,6 @@
+My super secure service is available now!
+
+Heck, even with [the source](https://files.actf.co/c9a06f7a95b1b6c75fd4a04dd2e557df1843186d5d744ce858cd7c98ecf2e05d/server.py), I bet you won't figure it out.
+
+`nc misc.2020.chall.actf.co 20301`
+Author : JoshDaBosh

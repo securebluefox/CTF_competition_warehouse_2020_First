@@ -1,0 +1,4 @@
+Clam **really** likes challenging himself. When he learned about all these weird unprintable ASCII characters he just HAD to put it in [a challenge](https://files.actf.co/1d1b7b98e37d42fd514dda0a3aeac13da064206b51b07bd6366c8f469cf29736/inputter). Can you satisfy his knack for strange and hard-to-input characters? [Source.](https://files.actf.co/73c7e1ceb2452607482323af57b749b13593616f4c99f3ab1f8ee86a720eb0e2/inputter.c)
+
+Find it on the shell server at `/problems/2020/inputter/`.
+Author : aplet123

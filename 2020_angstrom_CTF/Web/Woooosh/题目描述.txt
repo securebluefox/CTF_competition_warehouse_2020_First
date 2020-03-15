@@ -1,0 +1,2 @@
+Clam's tired of people hacking his sites so he spammed obfuscation on his [new game](https://woooosh.2020.chall.actf.co). I have a feeling that behind that wall of obfuscated javascript there's still a vulnerable site though. Can you exploit it?
+Author : aplet123

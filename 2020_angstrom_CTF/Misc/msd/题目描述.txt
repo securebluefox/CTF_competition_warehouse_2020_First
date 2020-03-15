@@ -1,0 +1,6 @@
+You thought Angstrom would have a stereotypical LSB challenge...
+You were wrong!
+To spice it up, we're now using the Most Significant Digit. Can you still power through it?
+
+Here's the [encoded image](https://files.actf.co/12040a4b503d8943e8f7d1f38af3922ece1cf794e427b6682dcc561e492fb5d4/output.jpg), and here's the [original image](https://files.actf.co/4ffd75debba1c5add31ef07293eebc24e799d2a2a8c51632540478410bb43b08/breathe.jpg), for the... well, you'll see.
+Author : JoshDaBosh

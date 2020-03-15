@@ -1,0 +1,2 @@
+Clam wrote [a program](https://files.actf.co/e9eef8d8736ec555b0e4bfab4473a2027be7a08cc688f1dd07dafb8eb42ead90/revving_up) for his school's cybersecurity club's first rev lecture! Can you get it to give you the flag? You can find it at `/problems/2020/revving_up` on the shell server, which you can access via the "shell" link at the top of the site.
+Author : aplet123

@@ -1,0 +1,7 @@
+So we all have that one **special** friend that constantly downloads weird binaries from the internet and runs them without a moment's hesitation, right?
+
+Well... One of my friends went a step further and entered some of our secret keys into this weird looking binary.
+
+I tried asking him what does the binary do but he just stares into the void and mutters something about counting the sponges there were but not are.
+
+...Anyway, I also found this other file just laying around. Maybe it will help you recover the leaked secret?

@@ -1,0 +1,5 @@
+Can you xor your way out of this? (Length of key: 4)
+
+[099ef33df584899b3c59eaeb5736acd4](https://storage.googleapis.com/b0ctf-deploy/harvesting_season.tgz)
+
+(created by a0su)
