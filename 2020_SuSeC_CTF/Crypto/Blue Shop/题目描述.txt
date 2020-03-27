@@ -1,0 +1,4 @@
+Description:
+Once again we are dealing with a random number generator. Can you guess the random number?
+
+nc 66.172.27.57 1337

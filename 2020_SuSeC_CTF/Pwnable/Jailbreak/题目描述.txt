@@ -1,0 +1,2 @@
+Jailbreak and escape!
+nc 66.172.27.144 9002

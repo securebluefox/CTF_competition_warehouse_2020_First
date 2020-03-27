@@ -1,0 +1,8 @@
+Description:
+Inaction or creativity, that is the question in the age of Covid19!
+
+nc 66.172.27.57 3114
+
+Note: there is a typo in inaction.py:
+
+s/if stage == 39:/if i == 39:/

@@ -1,0 +1,2 @@
+Description:
+A software company is validating lawful purchase of its software by issuing a special software certificate. Unfortunately, one of the buyers has abused his certificate to re-sell the software. Help investigators identify the abuser through the re-used certificate, so that he could be brought to justice!

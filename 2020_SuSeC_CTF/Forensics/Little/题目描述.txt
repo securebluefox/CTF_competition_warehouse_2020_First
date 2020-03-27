@@ -1,0 +1,3 @@
+Description:
+A little boy is playing around in his grandfather's attic, where he finds a magical box. Help him discover what is in the box.
+ATTENTION: The flag that you are going to capture for this task does not contain the word "SUSEC{", but you have to add this word to the beginning of the discovered flag before submitting it.

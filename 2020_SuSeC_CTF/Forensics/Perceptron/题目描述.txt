@@ -1,0 +1,6 @@
+Description:
+Simulating the human brain is currently impossible, but perceptron is trying to do that!
+
+Hint 1: There are many same sizes IDAT chunks in perceptron, are all of them necessary?
+Hint 2: There are other PNGs too. Try to recover them.
+
