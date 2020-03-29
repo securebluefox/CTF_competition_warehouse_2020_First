@@ -1,0 +1,3 @@
+Check out our very handy util SharpPasswd! We use it to hash our passwords all the time, it's the best!!!
+
+Try and see for yourself: just hash the flag and check that the output is "$1$.XnY46$rgnJwTKW7jO0xqyqJkf9C1"!

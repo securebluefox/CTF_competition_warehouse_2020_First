@@ -1,0 +1,5 @@
+Try to guess all encrypted bits and get your reward!
+
+server.py
+
+nc guess.q.2020.volgactf.ru 7777

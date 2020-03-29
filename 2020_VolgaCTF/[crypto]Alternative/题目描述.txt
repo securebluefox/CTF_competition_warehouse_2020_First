@@ -1,0 +1,3 @@
+This task is alternative.
+
+alternative.q.2020.volgactf.ru:7780/

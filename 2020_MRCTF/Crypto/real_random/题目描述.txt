@@ -1,0 +1,3 @@
+nc 38.39.244.2 28101<br/>
+I made a random number generation without variable pool, wait, something wrong with it?
+<br/>

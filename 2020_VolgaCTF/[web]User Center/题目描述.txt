@@ -1,0 +1,3 @@
+Steal admin's cookie!
+
+https://volgactf-task.ru/

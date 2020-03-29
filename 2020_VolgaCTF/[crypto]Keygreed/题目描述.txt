@@ -1,0 +1,5 @@
+Some time ago there was a file server which transmitted files over a custom secure protocol...
+
+Our BFF Eva managed to do what she does best - she eavesdropped on a particular communication. We also managed to get our hand on the client server.
+
+Is there any chance of getting something useful?

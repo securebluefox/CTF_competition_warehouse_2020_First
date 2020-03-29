@@ -1,0 +1,7 @@
+Don't get confused when solving it!
+
+DotnetmeProcessor.dll
+DotnetmeCLI.exe
+
+Hints
+Key should be enclosed by VolgaCTF{...}

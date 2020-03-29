@@ -1,0 +1,51 @@
+
+<!-- saved from url=(0043)http://newsletter.q.2020.volgactf.ru/source -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
+:root .btn.btn-default.hotwords[target="_blank"],
+:root .content > a > .topline,
+:root .container > a.mid-wrapper,
+:root .container > .pic_container,
+:root .container > .ads
+{ display: none !important; }</style></head><body><pre>&lt;?php
+namespace App\Controller;
+
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\Mailer\MailerInterface;
+use Symfony\Component\Mime\Email;
+
+class MainController extends AbstractController
+{
+    public function index(Request $request)
+    {
+      return $this-&gt;render('main.twig');
+    }
+
+    public function subscribe(Request $request, MailerInterface $mailer)
+    {
+      $msg = '';
+      $email = filter_var($request-&gt;request-&gt;get('email', ''), FILTER_VALIDATE_EMAIL);
+      if($email !== FALSE) {
+        $name = substr($email, 0, strpos($email, '@'));
+
+        $content = $this-&gt;get('twig')-&gt;createTemplate(
+          "&lt;p&gt;Hello ${name}.&lt;/p&gt;&lt;p&gt;Thank you for subscribing to our newsletter.&lt;/p&gt;&lt;p&gt;Regards, VolgaCTF Team&lt;/p&gt;"
+        )-&gt;render();
+
+        $mail = (new Email())-&gt;from('newsletter@newsletter.q.2020.volgactf.ru')-&gt;to($email)-&gt;subject('VolgaCTF Newsletter')-&gt;html($content);
+        $mailer-&gt;send($mail);
+
+        $msg = 'Success';
+      } else {
+        $msg = 'Invalid email';
+      }
+      return $this-&gt;render('main.twig', ['msg' =&gt; $msg]);
+    }
+
+
+    public function source()
+    {
+        return new Response('&lt;pre&gt;'.htmlspecialchars(file_get_contents(__FILE__)).'&lt;/pre&gt;');
+    }
+}</pre></body></html>

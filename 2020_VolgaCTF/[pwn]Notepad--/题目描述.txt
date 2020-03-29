@@ -1,0 +1,5 @@
+Notepad-- is the app to store your most private notes, with an extremely lightweight UI. Check it out!
+
+notepad
+
+nc notepad.q.2020.volgactf.ru 45678

@@ -1,0 +1,4 @@
+Unwanted coin
+See https://ropsten.etherscan.io/address/0x1d65b762d52a0644ccfaad2747d6ccb57a163e72#code
+Getflag:
+http://38.39.244.2:11451/

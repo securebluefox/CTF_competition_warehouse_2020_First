@@ -1,0 +1,3 @@
+Another telecom provider. Hope these guys prepared well enough for the network load...
+
+netcorp.q.2020.volgactf.ru

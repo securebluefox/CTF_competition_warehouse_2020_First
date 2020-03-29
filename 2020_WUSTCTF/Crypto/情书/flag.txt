@@ -1,0 +1,7 @@
+Premise: Enumerate the alphabet by 0、1、2、.....  、25
+Using the RSA system 
+Encryption:0156 0821 1616 0041 0140 2130 1616 0793
+Public Key:2537 and 13
+Private Key:2537 and 937
+
+flag: wctf2020{Decryption}

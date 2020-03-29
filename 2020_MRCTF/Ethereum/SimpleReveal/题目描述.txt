@@ -1,0 +1,8 @@
+contact
+```solidity
+pragma solidity>=0.4.22;
+contract reveal {
+    private string flag="some_string_here";
+}
+```
+Visit Contract at https://ropsten.etherscan.io/address/0x10b04ed6b0d819cb5ba2aaa6fd34c28e0476cd7b

@@ -1,0 +1,7 @@
+We've got some algorithm from our friends, but we are not sure how secure it is. Can you take a look?
+
+To prove it's bad send us the recovered key in hex format like VolgaCTF{0x0123456789ABCDEF}.
+
+server.py cipher.py
+
+nc export.q.2020.volgactf.ru 7778

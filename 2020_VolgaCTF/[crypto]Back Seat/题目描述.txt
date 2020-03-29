@@ -1,0 +1,7 @@
+We're reluctant to use this encryption algorithm without thorough examination. Looks like we need your expertise, again.
+
+Kindly let us know if using it is a bad idea by sending the recovered key in hex-format like VolgaCTF{0x0123456789ABCDEF}.
+
+server.py cipher.py
+
+nc backseat.q.2020.volgactf.ru 7779
