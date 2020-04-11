@@ -1,0 +1,3 @@
+Sometimes this could be the very thing that makes or breaks a CTF.
+If only you knew where to put that flag: X-MAS{Sum_S3krit_fl4g}
+[REDACTED]
