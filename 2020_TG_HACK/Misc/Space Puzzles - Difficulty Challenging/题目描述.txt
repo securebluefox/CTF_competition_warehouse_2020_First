@@ -1,0 +1,16 @@
+Author: maritio_o#9973
+
+Nani?! What are these strange puzzles? Can you solve them?
+
+nc puzzle.tghack.no 7002
+This is a programming challenge
+
+Btw, regarding "Only send me the grid. It needs the same borders." If the borders are scewed due to output length, please ignore it. The borders should be straight when you send input. Also, I was trying to say that I only want the border and what's inside. Use X's.
+
+[10:50 UTC+2] Also, I can say that whenever something is scewed, it is kind of logical. Just count the number of elements and spaces.
+
+[12:20 UTC+2] The solution must be formatted with spaces between each element but no space at the edge before and after the border.
+
+[15.01 UTC+2] "The borders should be straight when you send input." SORRY, this was meant on the left side. Meaning that if the output makes the left border scewed, you should still have a straight left border. The right side can be scewed when sending input.
+
+[15.15 UTC+2] Just updated the example for level 2 to make it clearer.

@@ -1,0 +1,3 @@
+Author: Krister Borge - kristebo#9730
+
+Download this file and get the flag. You will also need this wordlist

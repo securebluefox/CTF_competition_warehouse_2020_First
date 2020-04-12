@@ -1,0 +1,12 @@
+Author: zup#3948
+
+I found an old toy in the ship's storage room and made a security check for our server. Now robots can't get in, hopefully!
+
+Connect to the server:
+
+nc cubiks.tghack.no 7001
+or use a mirror closer to you:
+
+nc us.cubiks.tghack.no 7001 (US)
+nc asia.cubiks.tghack.no 7001 (Japan)
+When can people learn that this is not cryptography? :)

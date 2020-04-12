@@ -1,0 +1,8 @@
+Author: Krister Borge - kristebo#9730
+
+Intercepted ship to ship communication. Can you find the message?
+
+s2s.pcapng.
+
+Hint
+MQTT

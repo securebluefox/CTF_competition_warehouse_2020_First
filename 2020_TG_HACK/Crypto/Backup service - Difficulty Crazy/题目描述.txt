@@ -1,0 +1,11 @@
+Author: Kakekongen#1520
+
+One of our infrastructure engineers came over some peculiar traffic containing encrypted data. We suspect someone was exfiltrating data out of our network. She quickly managed to locate the machine sending the data but she was not able to determine the names or content of the files being sent over the network.
+
+She did manage to get the binary being run before it got deleted. We have information suggesting a previously discovered binary acting as a server might be involved in this.
+
+We trust you to determine what data might be exfiltrated from our network.
+
+Hint:
+gen_sym_key 0x6A1F0
+block_encrypt 0x52400
