@@ -1,0 +1,5 @@
+Can't wait to see how we screw it up this week!
+
+nc ctf.umbccd.io 4300
+
+Author: trashcanna

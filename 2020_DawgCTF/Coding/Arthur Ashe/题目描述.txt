@@ -1,0 +1,5 @@
+Success.
+
+nc arthurashe.ctf.umbccd.io 8411
+
+Author: pleoxconfusa

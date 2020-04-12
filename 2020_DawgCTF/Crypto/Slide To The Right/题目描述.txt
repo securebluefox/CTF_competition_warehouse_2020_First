@@ -1,0 +1,7 @@
+Now it's time to get funky.
+
+crypto.ctf.umbccd.io 13376
+
+(no brute force is required for this challenge)
+
+Author: pleoxconfusa

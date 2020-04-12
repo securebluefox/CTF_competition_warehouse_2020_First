@@ -1,0 +1,5 @@
+People are getting online here, but the page doesn't seem to be implemented...I ran a pcap to see what I could find out.
+
+http://freewifi.ctf.umbccd.io/
+
+Authors: pleoxconfusa and freethepockets

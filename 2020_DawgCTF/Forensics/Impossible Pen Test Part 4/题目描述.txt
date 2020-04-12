@@ -1,0 +1,7 @@
+Welcome! We're trying to hack into Burke Defense Solutions & Management, and we need your help. Can you help us find the syncedin page of the linux admin somewhere on the internet (their URL will be the flag)?
+
+https://theinternet.ctf.umbccd.io/ 
+
+(no web scraping is required to complete this challenge)
+
+author: pleoxconfusa

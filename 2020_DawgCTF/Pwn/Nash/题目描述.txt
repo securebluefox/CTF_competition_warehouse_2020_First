@@ -1,0 +1,9 @@
+Welcome to Nash! It's a NoSpaceBash! All you have to do is display the flag. It's right there.
+
+`cat flag.txt`
+
+Oh yeah...you can't use any spaces... Good luck!
+
+nc ctf.umbccd.io 4600
+
+Author: BlueStar

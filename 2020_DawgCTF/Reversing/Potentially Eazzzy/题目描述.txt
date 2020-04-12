@@ -1,0 +1,5 @@
+None of this "you gotta find the flag" stuff. Buy a copy of Flag Generator 5000 and it'll just print you the flag. Trick is, they stopped selling licenses, so you'll need to generate your own registration key.
+
+nc ctf.umbccd.io 5500
+
+Author: chainsaw10

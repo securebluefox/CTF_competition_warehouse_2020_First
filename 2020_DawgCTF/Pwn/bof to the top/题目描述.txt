@@ -1,0 +1,5 @@
+Anything it takes to climb the ladder of success
+
+nc ctf.umbccd.io 4000
+
+Author: trashcanna

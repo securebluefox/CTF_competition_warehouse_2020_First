@@ -1,0 +1,7 @@
+see:{LET ME IIIIIIIIIIIIIN!}
+
+crypto.ctf.umbccd.io 13375
+
+(no brute force is required for this challenge)
+
+Author: pleoxconfusa

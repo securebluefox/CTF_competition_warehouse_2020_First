@@ -1,0 +1,7 @@
+Can you crack RSA?
+
+crypto.ctf.umbccd.io 13374
+
+(no brute force is required for this challenge)
+
+Author: pleoxconfusa

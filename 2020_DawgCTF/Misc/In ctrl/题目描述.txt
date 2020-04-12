@@ -1,0 +1,11 @@
+WebCtrl is really secure I don't know what you're talking about.
+
+Note: All links are identical and only one link is needed to solve the challenge.
+
+percival1.ctf.umbccd.io
+percival2.ctf.umbccd.io
+percival3.ctf.umbccd.io
+percival4.ctf.umbccd.io
+percival5.ctf.umbccd.io
+
+Author: drew, Percival

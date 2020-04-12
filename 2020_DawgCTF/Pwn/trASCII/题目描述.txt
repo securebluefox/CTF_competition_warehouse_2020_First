@@ -1,0 +1,5 @@
+an ASCII garbage can written by your favorite garbage can
+
+nc ctf.umbccd.io 4800
+
+Author: trashcanna

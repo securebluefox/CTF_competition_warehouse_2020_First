@@ -1,0 +1,8 @@
+Welcome to the Ocean Boutique.
+Last year, y'all enjoyed the Snake Boutique, but I wanted to move closer to the C and find sequels by the shore, so I opened a new boutique.
+
+Your boss has directed you to purchase exactly 31337.42 of goods and keep the receipt. Don't forget to make sure it all fits in your suitcase!
+
+nc ctf.umbccd.io 5400
+
+Author: chainsaw10

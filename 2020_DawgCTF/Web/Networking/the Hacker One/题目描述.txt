@@ -1,0 +1,11 @@
+this CTF is virtually impossible to solve
+
+https://umbc.h1ctf.com/
+
+Note: flag format is flag{}
+
+Author: HackerOne
+
+Hint: the string `h1ctfsecret` may be useful.
+
+Hint 2: this CTF is virtually impossible to solve, but there must be some docs around here somewhere

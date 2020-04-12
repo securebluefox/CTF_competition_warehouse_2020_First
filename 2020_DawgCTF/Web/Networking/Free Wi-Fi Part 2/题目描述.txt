@@ -1,0 +1,7 @@
+I saw someone's screen and it looked like they stayed logged in, somehow...
+
+http://freewifi.ctf.umbccd.io/
+
+Authors: pleoxconfusa and freethepockets
+
+Hint:I’m using the username/identity fields.

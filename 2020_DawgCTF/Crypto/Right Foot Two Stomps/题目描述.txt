@@ -1,0 +1,7 @@
+So maybe it's not perfect. Padding may be vulnerable in general.
+
+crypto.ctf.umbccd.io 13372
+
+(no brute force is required for this challenge)
+
+Author: pleoxconfusa

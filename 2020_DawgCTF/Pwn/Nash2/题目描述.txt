@@ -1,0 +1,5 @@
+It's nospacebash for real this time!
+
+nc ctf.umbccd.io 5800
+
+Author: BlueStar

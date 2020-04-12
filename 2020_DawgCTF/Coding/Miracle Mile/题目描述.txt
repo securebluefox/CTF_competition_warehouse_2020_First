@@ -1,0 +1,7 @@
+You didn't think I'd graduate without writing a running themed challenge, did you?
+
+nc ctf.umbccd.io 5300
+
+Note: pace is measured in minutes/mile (i.e. 10 miles in 1:40:00 is 10:00 minutes/mile)
+
+Author: trashcanna

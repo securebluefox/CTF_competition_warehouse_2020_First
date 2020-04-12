@@ -1,0 +1,6 @@
+Welcome! We're trying to hack into Burke Defense Solutions & Management, and we need your help. Can you help us find the password of an affiliate's CEO somewhere on the internet and use it to log in to the corporate site?
+https://theinternet.ctf.umbccd.io/ 
+
+(no web scraping is required to complete this challenge)
+
+author: pleoxconfusa

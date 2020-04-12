@@ -1,0 +1,5 @@
+Anyone else hear about that cool infinite bell glitch?
+
+nc ctf.umbccd.io 4400
+
+Author: trashcanna

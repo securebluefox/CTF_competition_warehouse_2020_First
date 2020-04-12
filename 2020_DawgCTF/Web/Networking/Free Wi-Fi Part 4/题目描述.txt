@@ -1,0 +1,7 @@
+People seem to have some doohickey that lets them login with a code...
+
+http://freewifi.ctf.umbccd.io/
+
+Authors: pleoxconfusa and freethepockets
+
+Hint:You need to generate your own key from the nonce provided each time.

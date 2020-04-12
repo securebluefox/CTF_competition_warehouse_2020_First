@@ -1,0 +1,5 @@
+It's just a crackme, what's wrong? (This binary has been statically linked for windows)
+
+nc ctf.umbccd.io 5700
+
+Author: jaurelio

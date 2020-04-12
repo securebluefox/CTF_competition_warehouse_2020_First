@@ -1,0 +1,5 @@
+Better than locked up I guess
+
+nc ctf.umbccd.io 4500
+
+Author: trashcanna

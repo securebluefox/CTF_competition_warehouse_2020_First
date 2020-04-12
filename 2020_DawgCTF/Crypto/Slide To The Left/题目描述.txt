@@ -1,0 +1,7 @@
+These blocks can't be chained. (Could have been a solution to a previous problem)
+
+crypto.ctf.umbccd.io 13373
+
+(no brute force is required for this challenge)
+
+Author: pleoxconfusa

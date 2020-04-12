@@ -1,0 +1,6 @@
+Welcome to DawgCTF 2020!
+Challenges will be released on a rolling schedule. All new releases will be announced in the Discord.
+
+DawgCTF{fr33_fl@gs}
+
+Author: trashcanna

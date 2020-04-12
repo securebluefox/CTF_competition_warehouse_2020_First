@@ -1,0 +1,7 @@
+One time pad is perfectly secure.
+
+crypto.ctf.umbccd.io 13371
+
+(no brute force is required for this challenge)
+
+Author: pleoxconfusa

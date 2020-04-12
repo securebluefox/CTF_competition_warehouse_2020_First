@@ -1,0 +1,5 @@
+I love a little strfry
+
+nc ctf.umbccd.io 5100
+
+Author: trashcanna
