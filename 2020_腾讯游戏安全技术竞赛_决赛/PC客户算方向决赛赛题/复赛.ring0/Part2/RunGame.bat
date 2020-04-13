@@ -1,0 +1,1 @@
+start MyProject.exe -WINDOWED -ResX=800 -ResY=600
