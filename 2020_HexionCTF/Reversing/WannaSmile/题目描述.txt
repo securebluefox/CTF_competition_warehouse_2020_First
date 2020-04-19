@@ -1,0 +1,9 @@
+I accidentally executed this weird file that encrypted my important files! please help me understand what it does
+
+ssh wannasmile@challenges1.hexionteam.com -p 4000
+Password: hexctf
+
+*This challenge consists of 2 parts.
+**Attached version has the first flag removed.
+
+Author: moka

@@ -1,0 +1,9 @@
+Someone hacked us and is anonymously leaking all of our files on our latest project: SpaceY_Dump! We need to find out who is behind it. Can you get us their name and email so we can stop them from leaking our files?
+
+This is all of the information that we have about the leak: https://twitter.com/0hd4y53c/status/1025761671778689024.
+
+Flag format UMDCTF-{firstName_lastName_email}.
+
+Everything inside the brackets should be in lower case.
+
+Authors: WittsEnd2, drkmrin78

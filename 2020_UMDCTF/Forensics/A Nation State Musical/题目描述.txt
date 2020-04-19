@@ -1,0 +1,9 @@
+Oh no! It looks like a nation state is trying to attack one of UMDs routers! Using a pcap generated from the attack, try to determine which nation state the attack is coming from.
+
+Beware, you only have five guesses.
+
+The flag will be in the format UMDCTF-{Country}
+
+Note: do not attempt to communicate with or contact any of the IP addresses mentioned in the challenge. The challenge can and should be solved statically.
+
+Author: t0pc4r

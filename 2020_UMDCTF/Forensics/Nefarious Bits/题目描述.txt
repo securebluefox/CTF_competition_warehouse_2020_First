@@ -1,0 +1,5 @@
+After being exposed to some solar radiation, it looks like some bits have turned bad. It is your job to figure out what they are trying to say.
+
+Note: do not attempt to communicate with or contact any of the IP addresses mentioned in the challenge. The challenge can and should be solved statically.
+
+Author: t0pc4r

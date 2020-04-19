@@ -1,0 +1,6 @@
+Thank you for helping me stop the virus! can you recover my files now?
+
+ssh wannasmile@challenges1.hexionteam.com -p 4000
+Password: hexctf
+
+Author: moka

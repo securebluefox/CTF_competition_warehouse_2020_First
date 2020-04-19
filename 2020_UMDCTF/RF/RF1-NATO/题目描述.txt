@@ -1,0 +1,7 @@
+(Note: Due to the current circumstances, "iq files" will substitute for the intended live radio challenge transmissions at UMDCTF. These files can be imported into various radio tools, and effectively simulate what you would've received during the in-person competition. All iq files can be found here)
+
+For this challenge, you'll want to use RF1-NATO.iq and have GNUradio installed.
+
+Number stations always interested me, but I always wished I could decode them...
+
+Author: CheshireCatalytic

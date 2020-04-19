@@ -1,0 +1,14 @@
+We have Intel about the owner of this website:
+He's using a Password Manager!
+
+Can you use this Intel to steal his credentials?
+A flag will wait for you right after you log in.
+
+http://34.76.228.102:2003 (Note: use the IP not the domain)
+
+Author: Yarin
+
+Hint:
+
+This is a password manager browser extension.
+What do password manager extensions do?

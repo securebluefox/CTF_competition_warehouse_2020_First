@@ -1,0 +1,11 @@
+Welcome to shellcodia, here is an opportunity to write some custom shellcode to retrieve the flag!
+
+Simply connect, submit your shellcode in binary form, and if you've completed the challenge then a flag will return. This first challenge is to return the value 7. Now, a few things to remember, these are x64 machines so don't think you can sneak by with 32bit shellcode. Additionally, the environment assumes nothing about the shellcode you give it. It's highly unlikely that if you break the environment, even if you accomplished the goal, you will get the flag.
+
+Submit your shellcode to: 157.245.88.100:7778
+
+Good luck!
+
+Author: quantumite (BlueStar)
+
+(Note: flag is in UMDCTF{} format)

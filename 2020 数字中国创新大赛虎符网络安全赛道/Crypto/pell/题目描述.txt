@@ -1,0 +1,1 @@
+<p>Pass the check and get the flag on server.</p><p>nc 39.97.210.182 61235</p><p><a href="https://pan.baidu.com/s/1CgM87A7AiefIQNZfV9eDFQ" target="_blank">附件下载</a> 提取码：(jjee)</p>

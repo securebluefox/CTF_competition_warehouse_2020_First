@@ -1,0 +1,20 @@
+本程序在 2020-04-19 16:17:57 启动，开始自动储存题目!
+PWN 方向新增题目 MarksMan !
+PWN 方向新增题目 SecureBox !
+PWN 方向新增题目 encnote !
+PWN 方向新增题目 count !
+Crypto 方向新增题目 GM !
+Crypto 方向新增题目 mceliece !
+Crypto 方向新增题目 pell !
+Misc 方向新增题目 Minesweeper !
+Misc 方向新增题目 奇怪的组织 !
+Misc 方向新增题目 密码机器 !
+Reverse 方向新增题目 game !
+Reverse 方向新增题目 enc !
+Reverse 方向新增题目 vm !
+Misc 方向新增题目 签到题 !
+Web 方向新增题目 easy_login !
+Web 方向新增题目 just_escape !
+Web 方向新增题目 babyupload !
+本程序在 2020-04-19 16:17:57 成功存储了 17 道题目。
+

@@ -1,0 +1,5 @@
+Man, oracles are weird.
+
+nc challenges1.hexionteam.com 5000
+
+Author: Yarin

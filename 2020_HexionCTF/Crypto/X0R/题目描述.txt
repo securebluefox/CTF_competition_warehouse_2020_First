@@ -1,0 +1,4 @@
+XOR is best method for OTPs, especially for flags.
+
+Author: Yarin
+

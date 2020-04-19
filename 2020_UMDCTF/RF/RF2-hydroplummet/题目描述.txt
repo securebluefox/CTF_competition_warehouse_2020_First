@@ -1,0 +1,7 @@
+(Note: Due to the current circumstances, "iq files" will substitute for the intended live radio challenge transmissions at UMDCTF. These files can be imported into various radio tools, and effectively simulate what you would've received during the in-person competition. All iq files can be found here)
+
+For this challenge, you'll want to use RF2-hydroplummet.iq and have GNUradio installed.
+
+Do your best to stay a-float, and remember hearing isn't believing.
+
+Author: CheshireCatalytic

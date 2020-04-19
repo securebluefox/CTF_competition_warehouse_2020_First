@@ -1,0 +1,6 @@
+This zip file is really mean!
+
+Author: tonyz & mikeh (ZTC)
+
+(Note: the flag format for this challenge is UMDCTF-)
+

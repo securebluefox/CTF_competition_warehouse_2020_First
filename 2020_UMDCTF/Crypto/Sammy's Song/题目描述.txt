@@ -1,0 +1,7 @@
+Sammy was unsure whether to study crypto or music. Lucky for him, he can do both! Can you figure out what he's trying to say?
+
+Note: the flag will not be in the regular format; wrap it with UMDCTF-{*your found flag here*}
+
+Download link
+
+Author: t0pc4r

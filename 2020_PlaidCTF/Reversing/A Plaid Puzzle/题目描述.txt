@@ -1,0 +1,13 @@
+Story
+Your buddy takes you through a whirlwind tour of what’s been going on with REFUGE. The root cause of everything is, as you suspected, the competition for the prize of Bovik’s fortune. To try to get an edge, people have been finding bugs in the REFUGE firewall, and connecting REFUGE up to other sites. It turns out that, before he died, Bovik wrote some emulation code to support other, older, platforms within REFUGE. He spent so much time on the emulation support, he didn’t leave any time to optimize. As people have connected REFUGE up to the outside world, the REFUGE servers have been getting slower and slower.
+
+Emulating the outside world has also brought in all the bugs from the outside world into REFUGE. Each time one of those services crashes, it brings down a whole chunk. All of this crashing has been causing intermittent network partitions. The inconsistent state is what’s causing weird glitches to happen everywhere. That’s why you got stuck in the desert and you ended up in… wherever that cityscape was.
+
+Your buddy wasn’t able to explain everything. They’re helpful, not omniscient. You’re still a little confused about the fortune teller you saw earlier. Where did they come from? How did they disappear?
+
+And you’re really confused about this puzzle Bonzi left you.
+
+Problem Details
+Play
+
+(https://www.puzzlescript.net/play.html?p=a7e867c17405726eb0962b6483f51e4b)

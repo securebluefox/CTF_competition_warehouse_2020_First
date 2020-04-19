@@ -1,0 +1,5 @@
+Hurry up and make a guess, the clock is ticking ...
+
+nc 192.241.138.174 7799
+
+Author: johnokeefe

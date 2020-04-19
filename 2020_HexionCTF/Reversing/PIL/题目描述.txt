@@ -1,0 +1,9 @@
+Our team detected a suspicious image, and managed to get a code of some sort.
+We think they are related.
+
+Can you investigate this subject and see if you can give us more data?
+
+Author: Idan
+
+Hint:
+PIL = PI + IL

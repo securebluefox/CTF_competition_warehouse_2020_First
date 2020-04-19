@@ -1,0 +1,8 @@
+I hate my friend! He gave me this stupid binary, and he teases me with the flag.
+
+Can you help me defeat this challenge and get the flag?
+
+ssh catall@challenges2.hexionteam.com -p 3003
+Password: hexctf
+
+Author: Idan

@@ -1,0 +1,23 @@
+Story
+The main square of the inner sanctum has a massive fountain shooting water hundreds of feet into the air. Weirdly the water doesn’t appear to fall back down anywhere. It must be getting caught by some camouflaged troughs high up in the air. The troughs are hidden so well you can’t even make them out. What if there’s a flag up there?
+
+Near one of the corners of the fountain, you spot a familiar round metal shape: a manhole cover! You give the cover a kick but it doesn’t budge. Maybe there’s a way to pry it off. You spot a handle near the edge and pull. And PULL! You fall back in a heap, panting. This is probably a dead end after all.
+
+A friendly face pulls into view as you squint up at the sky.
+
+“Need a hand?“
+
+“Alright,” you reply.
+
+“The name’s Squirt.“
+
+Squirt pulls a flimsy-looking metal sheet about a hand’s width wide and several feet long.
+
+“Don’t worry. This guy’s stronger than he looks,” Squirt reassures you. He slips the sheet along the edge of the cover, slightly curving it. He takes a step back, slams his boot into the sheet, and to your surprise the cover pops open. “A bit of curvature, a bit of leverage, that’s all you need.“
+
+“Wow! Thank you. You got it open, so why don’t you lead the way down?“
+
+You both climb down the ladder and find a huge heap of pipes shooting water this way and that. Maybe there’s a way to shoot a drone up to the hidden troughs by messing around in the heap of pipes.
+
+Problem Details
+Running on ipppc.pwni.ng

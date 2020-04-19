@@ -1,0 +1,1 @@
+<p>我们在一台设备上找到了一个加密程序和一个加密文件，你能把文件的内容恢复吗？flag格式: flag{xxx}</p><p><a href="https://pan.baidu.com/s/1Ho5Cy108DQ0EY0GH7l0pxw" target="_blank">附件下载</a> 提取码：(htfq)</p>

@@ -1,0 +1,7 @@
+Looking for a straight-forwards crypto challenge? Good luck. You have a base64 encoded ciphertext, ask the oracle at
+
+nc 192.241.138.174 1337
+
+to decrypt it. Easy enough.
+
+Author: t0pc4r

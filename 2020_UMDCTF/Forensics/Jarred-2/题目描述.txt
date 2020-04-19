@@ -1,0 +1,9 @@
+Jarred thinks his computer got h4cked? Check out the memory dump to see if he has any proof.
+
+NOTE: This flag is NON-standard. The password to the zip file with the flag format is the name of the RK.
+
+Jarred-1 System.map and module.dwarf are needed here
+
+https://drive.google.com/open?id=1g0j7rm53lU7ZRBM8XgkPkFpUgsfXpjfi
+
+Author: drkmrin78

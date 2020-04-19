@@ -1,0 +1,9 @@
+We are trying to break this new crypto application.
+
+There is no documentation on it.
+
+Our knowledge is just limited to this binary.
+
+Can you help us figure out the cipher?
+
+Author: WittsEnd2

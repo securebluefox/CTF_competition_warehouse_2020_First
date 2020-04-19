@@ -1,0 +1,43 @@
+Story
+You decide to go to a happier part of REFUGE and visit the Tartan’s Carnival. That should have some fun and games to cheer you up, and let you forget the period of forgetfulness. You whip up your minigames teleport menu and focus on the plaid-colored bar. The familiar feeling of the world beginning to twist envelops you. The feeling of teleporting with a skin-suit on is a little bit hard to describe. If you’ve ever watched that classical television series Doctor Who, it feels a little bit like how the opening credits scene looks. Weirdly, the teleport feeling cuts short and you stutter a moment before finding your footing at Carnival. You’ve never had that happen before.
+
+Walking around Carnival, you see all of your familiar staples. To the back, there’s a Ferris wheel and one of those swing rides. Further forward, you see the hang-gliders and a tower stretching too high for you to see. You’re guessing that’s The Drop. Here in REFUGE, the hang-gliders aren’t attached to anything and the drop tower is 10,000 feet tall. One of the more fun aspects of the hang-gliders ride is trying to avoid the fireworks shooting up into the sky. It’s dodgeball at a more swoopy scale.
+
+To the left, you see the many roofs of towering structures, designed to represent little pops of culture. One of them has white sludge everywhere and half-formed people. Must be the newest season of Westworld. Another has little racoons and a yellow dog. Animal Crossing? People really get a kick out of finding bells. You think checkers is a much better name for a currency anyway. Each of the towering structures looks like a labor of love, paying tribute to a dear show, video-game, movie, or anything, really.
+
+You go in to explore the rigged games section of the carnival. As you pass each booth, someone shouts at you to come and play.
+
+“5,000 checkers for a throw, 10,000 for three!”
+
+“Come on over, and try your luck. Anyone can play, anyone can win!”
+
+You ignore all of their advertisements and walk past a booth where you throw balls to knock down bins, a booth where you throw pins to stick into balls, a booth where you pins throws while standing on a ball, a booth with a swimming pool teaming with fish, a booth with spinning disks and zig-zagging knives, and, in between all of the hawking sellers, you spot an empty wedge with a wrinkled someone holding a ball in their hand.
+
+They’re not hawking at you, which immediately piques your interest. You walk in between the knives (a little too close for comfort) and the pinning throws (a little too flappy for comfort) and settle down in front of the fortune teller. You sit there for a while with no reaction. You decide this is a waiting game, and stare into the crystal ball. White mist swirls and twirls within it. You are mesmerized. Eventually, you decide that’s enough time wasting and start to get up.
+
+“Did you want to hear your fortune?”
+
+You think for a second. Do you? “I guess so,” you reply.
+
+“That’ll be 5000 checkers, my dude.”
+
+Fortunately, you’ve gotten some extra checkers from all of your success at finding the flags, so it only takes you a little hesitation before flicking your head and sending the checkers over.
+
+“Thanks, my dude. Now, lemme tell ya what’s up.”
+
+The fortune teller stares into the crystal ball for a second before looking up and grinning. They toss the ball over their shoulder.
+
+“Eh, what the heck. This ball’s only to attract people like yourself to come give me a visit. Nobody’s as persistent as you, though. That’s why I gave you the cheap price. I’ll give you a real fortune.
+
+“Now, lemme think. One sense at a time. I’m tasting… something sweet, creamy, a dessert maybe? Well, now the taste is getting grittier and grittier, not nice at all. I can barely taste now, my tongue is so swollen. Moving on.
+
+“What can I see? What can I see? I see… Well, it’s hard to say. I see two things at once, three things at once, it’s all jumbling together. I see too much to know what I’m seeing.
+
+“I smell burning rubber, the fumes are coming at me strong. They’re blowing past my face. Ugh. I hear a bark. And feel happy, like I’ve found a friend, now sad, like I’ve lost one. I guess that’s cheating, you don’t feel feelings. I feel the compression and relaxation of a wave passing beneath me.”
+
+“Wow”, you reply, astonished. That’s a lot of detail. You aren’t too sure what to make of it, but you stand up, thank the fortune teller, and try to see if there’s a way you can pull a flag out of your new information.
+
+Problem Details
+Download
+Chromium commit detached at 81.0.4044.92 (commit hash 82e68b9038ab5679543b300b42202bc053c50930).
+nc mojo.pwni.ng 1337
