@@ -1,0 +1,10 @@
+A fun Minecraft redstone challenge.
+
+As this is sorta a forensics challenge it may be a good idea to backup the world folder so you don't have to download it over and over (however, there are MANY ways to solve this challenge and you do not necessarily need to make a backup).
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/block-gate-world.zip
+
+Happy hacking!
+ - Abjuri5t (John F.)
+
+p.s. Look left immeditaly after spawning-in and see what the water does :-)

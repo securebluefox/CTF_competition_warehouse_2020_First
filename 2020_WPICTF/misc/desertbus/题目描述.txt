@@ -1,0 +1,8 @@
+Why use a high priority bus when you can take the ascii taxi instead?
+If you get to the end you get a flag.
+(might take 3 hours)
+
+ssh ctf@desertbus.wpictf.xyz
+password: desertbus
+
+made by rm -k

@@ -1,0 +1,9 @@
+Like the title says, this challenge is dangerous and contains live malware.
+
+Shoutout to the hacker that I stole this from challenge from. Sadly I can't give them credit because they sent the phish from a compromised email, but it's literally his/her code. I just defanged it (a little bit - it will still crash your webbrowser (usually, but don't test that outside of a VM)) and stuck a WPI flag in here.
+
+To prevent accidental execution the file has been zipped with the password "I_understand_that_this_challenge_contains_LIVE_MALWARE"
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/invoice.zip
+
+made by: The_Abjuri5t (John F.)

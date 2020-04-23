@@ -1,0 +1,5 @@
+`ssh ctf@lynxve.wpictf.xyz`
+
+pass: `lynxVE`
+
+made by: acurless

@@ -1,0 +1,8 @@
+A rogue attacker has hacked into our otaku radio station! We believe that he is stealing our rare memes and waifu secrets... please find out what he's saying!
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/weeaboo.mp3
+
+made by rm -k
+
+Hint:
+八月十四日です。マンチェスターからのライブ W P I F M です。

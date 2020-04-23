@@ -1,0 +1,101 @@
+本程序在 2020-04-23 11:42:15 启动，开始自动储存题目!
+[!] 开始写入题目 Can you Read? 的题目描述!
+[!] 题目 Can you Read? 的题目描述写入成功!
+[!] 开始写入题目 inspector 的题目描述!
+[!] 题目 inspector 的题目描述写入成功!
+[!] 开始写入题目 👉😎👉 的题目描述!
+[!] 题目 👉😎👉 的题目描述写入成功!
+[!] 开始写入题目 LynxVE 的题目描述!
+[!] 题目 LynxVE 的题目描述写入成功!
+[!] 开始写入题目 dns_wizard 的题目描述!
+[!] 题目 dns_wizard 的题目描述写入成功!
+[!] 开始写入题目  danger-Live-and-Malicious-Code 的题目描述!
+[!] 题目  danger-Live-and-Malicious-Code 的题目描述写入成功!
+[!] 开始写入题目 dorsia2 的题目描述!
+[!] 题目 dorsia2 的题目描述写入成功!
+[!] 开始写入题目 hellofellowchallengers 的题目描述!
+[!] 题目 hellofellowchallengers 的题目描述写入成功!
+[!] 开始写入题目 dorsia1 的题目描述!
+[!] 题目 dorsia1 的题目描述写入成功!
+[!] 开始写入题目 dorsia1 的Hint!
+[!] 题目 dorsia1 的Hint写入成功!
+[!] 开始写入题目 block gate 的题目描述!
+[!] 题目 block gate 的题目描述写入成功!
+[!] 开始写入题目 John Cena 🎺🎺🎺🎺 的题目描述!
+[!] 题目 John Cena 🎺🎺🎺🎺 的题目描述写入成功!
+[!] 开始写入题目 NotWannasigh 的题目描述!
+[!] 题目 NotWannasigh 的题目描述写入成功!
+[!] 开始写入题目 PR3S3N70R 的题目描述!
+[!] 题目 PR3S3N70R 的题目描述写入成功!
+[!] 开始写入题目 Luna 的题目描述!
+[!] 题目 Luna 的题目描述写入成功!
+[!] 开始写入题目 Remy's Epic Adventure 2: Electric Boogaloo 的题目描述!
+[!] 题目 Remy's Epic Adventure 2: Electric Boogaloo 的题目描述写入成功!
+[!] 开始写入题目 acurless kdf 的题目描述!
+[!] 题目 acurless kdf 的题目描述写入成功!
+[!] 开始写入题目 Dolla Dolla Dillz 的题目描述!
+[!] 题目 Dolla Dolla Dillz 的题目描述写入成功!
+[!] 开始写入题目 WPI Digital Holdings Ltd. 的题目描述!
+[!] 题目 WPI Digital Holdings Ltd. 的题目描述写入成功!
+[!] 开始写入题目 Suckmore Shell 2.0 的题目描述!
+[!] 题目 Suckmore Shell 2.0 的题目描述写入成功!
+[!] 开始写入题目 sigknock 的题目描述!
+[!] 题目 sigknock 的题目描述写入成功!
+[!] 开始写入题目 desertbus 的题目描述!
+[!] 题目 desertbus 的题目描述写入成功!
+[!] 开始写入题目 dont@me 的题目描述!
+[!] 题目 dont@me 的题目描述写入成功!
+[!] 题目 dont@me 共计有 1 个附件!
+[!] 开始存储题目 dont@me 的第 1 个附件!
+[!] 题目 dont@me 的第 1 个附件存储失败!题目文件夹已被清除!!
+[-] pwn 方向新增题目 dont@me 失败!请尝试再次存储!
+[!] 开始写入题目 Illuminati Confirmed 的题目描述!
+[!] 题目 Illuminati Confirmed 的题目描述写入成功!
+[!] 开始写入题目 dorsia3 的题目描述!
+[!] 题目 dorsia3 的题目描述写入成功!
+[!] 题目 dorsia3 共计有 2 个附件!
+[!] 开始存储题目 dorsia3 的第 1 个附件!
+[!] 题目 dorsia3 的第 1 个附件存储失败!题目文件夹已被清除!!
+[-] pwn 方向新增题目 dorsia3 失败!请尝试再次存储!
+[!] 开始写入题目 weeb radio 的题目描述!
+[!] 题目 weeb radio 的题目描述写入成功!
+[!] 开始写入题目 dorsia4 的题目描述!
+[!] 题目 dorsia4 的题目描述写入成功!
+[!] 题目 dorsia4 共计有 2 个附件!
+[!] 开始存储题目 dorsia4 的第 1 个附件!
+[!] 题目 dorsia4 的第 1 个附件存储失败!题目文件夹已被清除!!
+[-] pwn 方向新增题目 dorsia4 失败!请尝试再次存储!
+本程序在 2020-04-23 11:42:59 成功存储了 23 道题目。
+
+本程序在 2020-04-23 11:54:05 启动，开始自动储存题目!
+[!] 本次存储中，附件存储功能已关闭！这将极大地提升存储速度，您需要稍后手动存储附件！[-] 题目 Can you Read? 已存在!
+[-] 题目 inspector 已存在!
+[-] 题目 👉😎👉 已存在!
+[-] 题目 LynxVE 已存在!
+[-] 题目 dns_wizard 已存在!
+[-] 题目  danger-Live-and-Malicious-Code 已存在!
+[-] 题目 dorsia2 已存在!
+[-] 题目 hellofellowchallengers 已存在!
+[-] 题目 dorsia1 已存在!
+[-] 题目 block gate 已存在!
+[-] 题目 John Cena 🎺🎺🎺🎺 已存在!
+[-] 题目 NotWannasigh 已存在!
+[-] 题目 PR3S3N70R 已存在!
+[-] 题目 Luna 已存在!
+[-] 题目 Remy's Epic Adventure 2: Electric Boogaloo 已存在!
+[-] 题目 acurless kdf 已存在!
+[-] 题目 Dolla Dolla Dillz 已存在!
+[-] 题目 WPI Digital Holdings Ltd. 已存在!
+[-] 题目 Suckmore Shell 2.0 已存在!
+[-] 题目 sigknock 已存在!
+[-] 题目 desertbus 已存在!
+[!] 开始写入题目 dont@me 的题目描述!
+[!] 题目 dont@me 的题目描述写入成功!
+[-] 题目 Illuminati Confirmed 已存在!
+[!] 开始写入题目 dorsia3 的题目描述!
+[!] 题目 dorsia3 的题目描述写入成功!
+[-] 题目 weeb radio 已存在!
+[!] 开始写入题目 dorsia4 的题目描述!
+[!] 题目 dorsia4 的题目描述写入成功!
+本程序在 2020-04-23 11:54:46 成功存储了 3 道题目。
+

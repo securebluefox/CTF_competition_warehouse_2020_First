@@ -1,0 +1,9 @@
+We've been investigating a sketchy shell company. They recently deployed a new encryption technique that has our experts stumped. Can you help us out?
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/letterhead.jpg
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/transmission.pcap
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/wpi-drm
+
+made by: acurless, rm -k

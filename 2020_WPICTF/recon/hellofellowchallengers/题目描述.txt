@@ -1,0 +1,6 @@
+The flag could be any one of us! He could be in this very room... He could be you! He could be me! He could even be...
+
+made by rm -k
+
+HINT: flag follows WPI{...} format.
+HINT: blue *team* has taken the inteliigence

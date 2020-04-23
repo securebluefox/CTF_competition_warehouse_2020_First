@@ -1,21 +1,24 @@
 # -*- coding: UTF-8 -*-
 # @Author   : ERROR404
-# @Version  : 1.2
-import requests,os,ssl,html,urllib.request,time,shutil
+# @Version  : 1.3
+import requests,os,ssl,html,urllib.request,time,shutil,traceback,brotli
 
 ssl._create_default_https_context = ssl._create_unverified_context
 DEBUG = True # 将此处置位将会输出部分except的异常详细信息！
 Save_File = True # 您是否想要自动化存储题目附件？
 
 Headers={
-    'accept': '*/*',
+    'accept': 'application/json',
     'accept-encoding': 'gzip, deflate, br',
-    'accept-language': 'zh-CN,zh;q=0.9',
+    'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'cache-control': 'no-cache',
+    'content-type': 'application/json',
+    'csrf-token': '',
+    'pragma': 'no-cache',
+    'sec-fetch-dest': 'empty',
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-origin',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
-    'x-requested-with': 'XMLHttpRequest',
-    'csrf-token': '6056c8f6b07709306c2a6eae4f366717c2799e5c762da696bbdffd4425428b53'
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
 }
 
 Cookies={
@@ -23,8 +26,8 @@ Cookies={
 }
 
 def get_Problem(url,Problem_ID):
-    API_url = url + '/api/v1/challenges/'+str(Problem_ID)
-    problem = requests.get(API_url,headers=Headers,cookies=Cookies)
+    API_url = url + 'api/v1/challenges/'+str(Problem_ID)
+    problem = requests.get(API_url,headers=Headers,cookies=Cookies,proxies=proxies)
     return problem.json()['data']
 
 def save_file(url,Problem_file_path,file_url):
@@ -58,7 +61,7 @@ def Save(url,race_name):
     Log_content  = '本程序在 %s 启动，开始自动储存题目!\n' % (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())) 
     save_success_num = 0
 
-    if not save_file:
+    if not Save_File:
         Log_content += '[!] 本次存储中，附件存储功能已关闭！这将极大地提升存储速度，您需要稍后手动存储附件！'
         print('\033[0;31m' + '[!] 本次存储中，附件存储功能已关闭！这将极大地提升存储速度，您需要稍后手动存储附件！' + '\033[0m')
 
@@ -66,11 +69,13 @@ def Save(url,race_name):
 
     try:
         API_url = url + 'api/v1/challenges'
-        All_challenges = requests.get(API_url,headers=Headers,cookies=Cookies)
+        All_challenges = requests.get(API_url,headers=Headers,cookies=Cookies,proxies=proxies)
         challenges_list = All_challenges.json()['data']
     except Exception as e:
         if DEBUG:
-            print(e)
+            print(All_challenges.text.encode('br').decode('utf-8'))
+            print(traceback.format_exc())
+            print(All_challenges.json())
         if( ('message' in All_challenges.json().keys()) and (All_challenges.json()['message'] == 'You don\'t have the permission to access the requested resource. It is either read-protected or not readable by the server.') ):
             print('\033[0;31m' + '[-] 已与服务器建立链接!但比赛仍未开始!' + '\033[0m')
         else:
@@ -124,8 +129,9 @@ def Save(url,race_name):
             try:
                 hint_file = open(os.path.expanduser(hint_file_path),'w')
                 hint_text = ""
-                for hint in problem['hints']:
-                    hint_text += hint + '\n'
+                for hints in problem['hints']:
+                    for hint in hints:
+                        hint_text += hint + '\n'
                 hint_file.write(html.unescape(hint_text))
                 Log_content += '[!] 题目 %s 的Hint写入成功!\n' % (problem_name)
                 print('\033[0;32m' + '[!] 题目 %s 的Hint写入成功!' % (problem_name) + '\033[0m')
@@ -140,7 +146,7 @@ def Save(url,race_name):
                 print('\033[0;31m' + '[-] %s 方向新增题目 %s 失败!请尝试再次存储!' % (category,problem_name) + '\033[0m')
                 continue
 
-        if save_file:
+        if Save_File:
             if len(problem['files']) != 0 and upgrade == False:
                 remaining_file_number = len(problem['files'])
                 Log_content += '[!] 题目 %s 共计有 %d 个附件!\n' % (problem_name,remaining_file_number)
@@ -194,10 +200,12 @@ if __name__ == "__main__":
     # 请从浏览器获取该字段然后填在这里哦~
     url = ''
     Cookies['session'] = ''
+    Cookies['__cfduid'] = ''
+    Headers['csrf-token'] = ''
     # Cookies['Other'] = 'Other'
     #以上为用户预定义部分↑
 
-    if race_name != '' and Cookies['session'] != '' and url != '':
+    if race_name != '' and Cookies['session'] != ''  and Cookies['csrf-token'] != '' and url != '':
         print('\033[0;32m' + '[+]现在开始自动化存储 ' + race_name + '的题目!' + '\033[0m')
         Save(url,race_name)
     else :

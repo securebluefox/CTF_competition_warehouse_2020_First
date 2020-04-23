@@ -1,0 +1,4 @@
+Haha! Your precious file flag.gif has been encrypted by my new and improved ransomware NotWannasigh! You must send bitcoin to "bitpay.com/83768" to get the decryption key. You should act fast because in 48 hours I will delete the key. Muahahahaha!
+ - def-not-h4ckah
+
+(Hi, CTF challenge creator here. You should _NEVER_ pay the ransom. If you send bitcoin to that BTC wallet then you will ONLY be donating to charity (and hey, that's really nice of you, Mental Health Hackers is a great organization). I will NOT send you the decryption key)

@@ -1,0 +1,9 @@
+Port knocking is boring. Enhance your security through obscurity using sigknock.
+
+`ssh ctf@sigknock.wpictf.xyz`
+
+pass: `$1gkn0ck`
+
+made by: acurless
+
+Note: this challenge is in no way related to the open source tool of the same name.

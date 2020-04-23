@@ -1,0 +1,7 @@
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/dorsia.webm
+The third card.
+
+nc dorsia3.wpictf.xyz 31337
+or 31338 or 31339
+
+made by: awg

@@ -1,0 +1,15 @@
+**BROKEN**
+
+I've made a cool new KDF! Try it out.
+
+I've encrypted a file with a key generated from the seed `L1nuX>W1nd0ze`
+
+made by: acurless
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/acurless-kdf-1.pdf
+
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/secret_data-1.enc
+
+Notes: 
+* I suggest you base your blowfish implementation on the pseudocode found on wikipedia.
+* My implementation is in C if that helps you understand the spec.

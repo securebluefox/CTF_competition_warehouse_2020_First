@@ -1,0 +1,12 @@
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/dorsia.webm
+The second card.
+
+http://dorsia2.wpictf.xyz:31337/index.html
+or 31338 or 31339
+
+Firefox doesnt like the page... try chromium.
+
+made by: awg
+
+
+Hint: flag in ~/flag.txt

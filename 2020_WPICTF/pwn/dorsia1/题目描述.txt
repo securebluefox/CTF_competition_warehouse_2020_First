@@ -1,0 +1,9 @@
+http://us-east-1.linodeobjects.com/wpictf-challenge-files/dorsia.webm
+The first card.
+
+nc  dorsia1.wpictf.xyz 31337
+or 31338 or 31339
+
+made by: awg
+
+Hint: Same libc as dorsia4, but you shouldn't need the file to solve.
