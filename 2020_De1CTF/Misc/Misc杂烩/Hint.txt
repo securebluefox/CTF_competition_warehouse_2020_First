@@ -1,0 +1,6 @@
+流量包中的网络连接对解题没有帮助
+The network connection in pcap is not helping to the challenge
+不需要访问流量里任何一个的服务器地址，所有数据都可以从流量包里直接提取
+Do not need to connect the network, every data can be extracted from the pcap
+In the burst test point of compressed packet password, the length of the password is 6, and the first two characters are "D" and "E". 
+压缩包密码暴破考点中，密码的长度为6位，前两位为DE。

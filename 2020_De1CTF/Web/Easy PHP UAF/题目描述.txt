@@ -1,0 +1,9 @@
+1. Docker image is php:7.4.2-apache
+2. maybe you can get some help here:https://github.com/mm0r1/exploits/blob/master/php7-backtrace-bypass/exploit.php
+3. 3.some token has been blocked in lex_scan
+
+http://129.204.185.9:8848/
+
+attachment: 
+https://share.weiyun.com/56oNut8 
+https://drive.google.com/open?id=19uST6Au8BOh9G4MAnKZvMfGHewDxOjb5

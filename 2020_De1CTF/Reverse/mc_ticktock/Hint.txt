@@ -1,0 +1,12 @@
+Due to the difficulty of meeting precondition, we are now releasing the binary file.
+
+https://drive.google.com/file/d/1hNrGTrp1pjuh4vLaVsxnNogNOshhcnV5/view
+
+https://pan.baidu.com/s/1nfXKjFOwiol0D92dy5u3iA (Pwd:zgv3)
+
+https://share.weiyun.com/5N7qpgK
+Some Internal IP：
+
+mc_logclient - 172.20.10.166
+mc_noisemap - 172.20.114.213
+mc_realworld - 172.20.39.31

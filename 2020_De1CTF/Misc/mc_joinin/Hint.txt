@@ -1,0 +1,3 @@
+ mc_joinin's flag is: De1CTF{md5(flag)}
+mc_joinin的flag格式为：De1CTF{md5(flag)}
+

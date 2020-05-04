@@ -1,0 +1,9 @@
+pwn android!
+
+nc 206.189.186.98 8848 
+
+nc 134.175.239.26 18848 
+
+链接：https://share.weiyun.com/5yDQgex 密码：xumbx7
+
+https://drive.google.com/file/d/1MBZuIrQ0h7xYl55Gia7F9kIcs7cdeWXz/view?usp=sharing

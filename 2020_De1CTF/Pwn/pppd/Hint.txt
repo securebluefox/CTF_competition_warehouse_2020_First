@@ -1,0 +1,5 @@
+CVE-2020-8597
+socat is a useful tool
+pppd will attach to the current tty, and receive data from stdin and output to stdout
+try 
+socat pty,link=/tmp/serial,rawer tcp:134.175.208.201:8848

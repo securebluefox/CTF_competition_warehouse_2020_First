@@ -1,0 +1,2 @@
+服务器5分钟重置一次
+The server will reset every 5 mins

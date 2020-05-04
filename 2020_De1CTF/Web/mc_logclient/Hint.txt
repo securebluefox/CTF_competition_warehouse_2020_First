@@ -1,0 +1,4 @@
+Here's your useful tool to write log file without joining in the game.
+nc SERVER-IP 6000
+
+env: python3.8
