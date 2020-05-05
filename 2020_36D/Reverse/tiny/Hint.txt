@@ -1,0 +1,4 @@
+A mini Program
+Hint: echo $? 判断flag结果
+提交时请包上 flag{}
+ELF结构了解一下
