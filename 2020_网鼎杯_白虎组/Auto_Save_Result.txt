@@ -1,0 +1,42 @@
+本程序在 2020-05-14 09:00:03 启动，开始自动储存题目!
+Misc 方向新增题目 签到 !
+Misc 方向新增题目 密码柜 !
+Reverse 方向新增题目 恶龙 !
+Crypto 方向新增题目 b64 !
+PWN 方向新增题目 vivd !
+本程序在 2020-05-14 09:00:04 成功存储了 5 道题目。
+
+本程序在 2020-05-14 12:11:52 启动，开始自动储存题目!
+Misc 方向新增题目 签到 !
+Misc 方向新增题目 密码柜 !
+Reverse 方向新增题目 恶龙 !
+Reverse 方向新增题目 幸运的数字 !
+Crypto 方向新增题目 rand !
+Crypto 方向新增题目 b64 !
+Web 方向新增题目 picdown !
+Web 方向新增题目 张三的网站 !
+PWN 方向新增题目 of !
+PWN 方向新增题目 quantum_entanglement !
+PWN 方向新增题目 vivd !
+本程序在 2020-05-14 12:11:55 成功存储了 11 道题目。
+
+本程序在 2020-05-14 16:24:33 启动，开始自动储存题目!
+Misc 方向新增题目 签到 !
+Misc 方向新增题目 密码柜 !
+Misc 方向新增题目 hack !
+Misc 方向新增题目 hidden !
+Misc 方向新增题目 boot !
+Reverse 方向新增题目 py !
+Reverse 方向新增题目 恶龙 !
+Reverse 方向新增题目 幸运的数字 !
+Crypto 方向新增题目 rand !
+Crypto 方向新增题目 b64 !
+Web 方向新增题目 picdown !
+Web 方向新增题目 张三的网站 !
+PWN 方向新增题目 of !
+PWN 方向新增题目 quantum_entanglement !
+PWN 方向新增题目 vivd !
+PWN 方向新增题目 bfmt !
+Web 方向新增题目 StarBucket !
+本程序在 2020-05-14 16:24:34 成功存储了 17 道题目。
+
