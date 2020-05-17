@@ -1,0 +1,18 @@
+本程序在 2020-05-17 18:40:28 启动，开始自动储存题目!
+Misc 方向新增题目 签到 !
+Web 方向新增题目 nmap !
+Web 方向新增题目 phpweb !
+Misc 方向新增题目 key !
+Misc 方向新增题目 九宫格 !
+Crypto 方向新增题目 simple !
+Crypto 方向新增题目 RUA !
+Crypto 方向新增题目 guess_game !
+Reverse 方向新增题目 go !
+Reverse 方向新增题目 tree !
+PWN 方向新增题目 云盾 !
+PWN 方向新增题目 魔法房间 !
+Misc 方向新增题目 小明的bb86 !
+PWN 方向新增题目 supersafe_vm !
+Web 方向新增题目 think_java !
+本程序在 2020-05-17 18:40:29 成功存储了 15 道题目。
+

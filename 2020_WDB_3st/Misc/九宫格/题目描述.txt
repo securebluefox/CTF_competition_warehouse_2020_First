@@ -1,0 +1,1 @@
+在九宫格内把1-9数字填入，使其横加竖加斜加均得15，将对角线的数字排列组合从小到大的顺序为本题的重要信息。<p><a href="https://pan.baidu.com/s/1jlNdrv92ERCDUrz6cu68Sg" target="_blank">附件下载</a> 提取码：(4lmc)<a href="https://share.weiyun.com/rDPqaFaf" target="_blank"> 备用下载</a></p>
