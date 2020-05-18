@@ -1,0 +1,24 @@
+在终端中运行 run.bat 即可运行程序，同时建议使用 Windows Terminal （可在 Microsoft 应用商店中下载）以获得最佳体验
+根据规定，公布抽奖概率（与国服“公主连结”抽奖概率保持一致）
+第1~9发
+⭐⭐⭐2.5%（🌈）
+⭐⭐18%（📒）
+⭐79.5%（📄）
+第10发（保底）
+⭐⭐⭐2.5%（🌈）
+⭐⭐97.5%（📒）
+最后，祝：
+
+
+下载文件: gacha_game.7z
+
+这题为什么不在 Reverse 分类里呢
+（偷偷在这里放一个链接 https://docs.python.org
+
+./python.exe -v
+
+Monkey patch（你用过 gevent 吗
+
+strings gacha_game.pyc
+
+.py 文件一定不能执行吗

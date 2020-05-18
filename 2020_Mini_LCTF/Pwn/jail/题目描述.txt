@@ -1,0 +1,7 @@
+This game is from XNUCA2019 final awd3. You can find some useful WP through google . But I have patched it to avoid escape too easy .Try to escape the jail! (flag name :flag location :root directory) flag can be read by any user.
+
+下载文件: chroot
+
+chroot函数只能被root使用，注意已经打开的文件描述符
+
+注意init函数里调用了getrootinode()和文件描述符的概念

@@ -1,0 +1,6 @@
+What is the Common Name of the fake issuer?
+format: minil{CNofIssuer.encode(base64)}
+
+下载文件: MITM.pcap.zip
+
+flag最多只能提交两次

@@ -1,0 +1,12 @@
+After answering the first two questions, did you find that there is no packet from victim IP to MITM IP in Wireshark?
+Not believe it? Filter like this：ip.src == xx && ip.addr == xx
+
+Explain these phenomenon and send an email to qiangwanghhh@gmail.com to get the Flag.
+
+下载文件: MITM.pcap.zip
+
+Wireshark给你看到的是真的吗？
+
+关注MAC地址
+
+看wireshark里显示的第25、26数据报文中IP与MAC

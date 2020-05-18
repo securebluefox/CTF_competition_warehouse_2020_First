@@ -1,0 +1,4 @@
+ez misc challenge ever, but the file is quite large <3
+download link：
+https://minil2020fac.oss-cn-hangzhou.aliyuncs.com/challenge.vmem
+flag format is miniLCTF{xxxx}, maybe a little different from others

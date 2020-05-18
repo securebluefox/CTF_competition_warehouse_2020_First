@@ -1,0 +1,1 @@
+No shell, notice anti-debug, crc, and compiler optimization.

@@ -1,0 +1,10 @@
+格式：mini{flag}
+maybe ιi1Il
+
+下载文件: out.txt
+
+下载文件: trylll.py
+
+出题车祸
+第五行应为：while g<pow(q/4,0.5) and g>pow(q/2,0.5):
+out里的数据虽然不在这个范围，但是不影响正常解密，只是这种私钥的安全性降低了，引以为戒

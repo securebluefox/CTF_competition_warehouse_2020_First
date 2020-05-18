@@ -1,0 +1,31 @@
+There were TOO MANY videos on Bilibili in 2050, so DV comes.
+Could you please tell me the dv string of "av4123456" ?
+format: minil{dvString.encode(base64)}
+
+下载文件: av1000000To3999999.txt
+
+Hint1:
+https://www.zhihu.com/question/381784377
+This link would be the BEST tutorial to solve my problem, hope you guys read it carefully!
+
+To be honest, I also spent a long time to solve my own problem. Wish you guys good luck and don't worry, I have prepared enough hints for you <3
+
+Hint2:
+
+u need 2 know:
+In the DV string, some characters change, some don't. More importantly, the changing characters only change in a certain range.
+**XOR** operation is the reason why you can't find the mapping relationship.
+**Brute-force** is necessary. While the dataset is quite BIG, you should take some clever methods to shorten the time.
+
+
+Good luck <3
+
+Final hint:
+One team had solved my problem! Bravo~
+After checking all submissions to this challenge, here are some suggestions for you guys:
+If you use Python, it is not recommended to use readline() to deal with txt sample, however, seek() would be better.
+As hint2 said, xor is important. To find the xor, you should take a part of the sample in the file for regular analysis, but not to use all the data to verify xor one by one, which is USELESS and WRONG. The method of analysis had been told on Zhihu page in hint1, read carefully!
+At the end last, one thing I could tell you is that the xor is fit in (0, 100000) when I generated the txt file.
+
+
+Looking forward to your FLAG <3
