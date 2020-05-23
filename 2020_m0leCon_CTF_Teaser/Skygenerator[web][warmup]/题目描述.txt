@@ -1,0 +1,4 @@
+Want the flag? Better try harder!https://challs.m0lecon.it:8000/
+Note: The flag is located into the flag table
+Hint: PHP source code and XML don't go along very well
+Author: @lpezzolla

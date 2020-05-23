@@ -1,0 +1,21 @@
+Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA, 234 points
+Back to Scoreboard
+
+Hah, yeah we're going to do the hard part anyways! Glue all previous parts together by identifying these stars based on the provided catalog. Match the provided boresight refence vectors to the catalog refence vectors and tell us our attitude.
+
+Note: The catalog format is unit vector (X,Y,Z) in a celestial reference frame and the magnitude (relative brightness)
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{golf33815whiskey:GEmuEym9tXf5pYsP9gXFbFfDKN2ZdqTpidHWE7dqtEH_wYPzXD1f_mFZcKMc99jWrQ}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on spacebook.satellitesabove.me:5015 . Using netcat, you might run nc spacebook.satellitesabove.me 5015
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/spacebook/spacebook-golf33815whiskey.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{golf33815whiskey:___a bunch of unguessable stuff___} .

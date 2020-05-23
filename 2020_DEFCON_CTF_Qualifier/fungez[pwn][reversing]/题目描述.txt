@@ -1,0 +1,3 @@
+read the secret in /flag
+
+fungez.challenges.ooo 10101

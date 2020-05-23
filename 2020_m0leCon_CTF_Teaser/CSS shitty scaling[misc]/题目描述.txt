@@ -1,0 +1,2 @@
+I tried to animate pixels in css but it didn't go that well... can you optimize it a bit?
+Author: @0000matteo0000

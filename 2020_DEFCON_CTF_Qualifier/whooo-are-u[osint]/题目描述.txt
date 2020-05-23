@@ -1,0 +1,11 @@
+FIRST GOLF CHALLENGE!!!
+
+Who are you, really? Are you the person, the keyboard, the internet connection, or the software? Today, those of us that have faced the glory of pwn.college explore the metaphysical implications of the latter…
+
+You can pull the image for offline analysis at zardus/dc2020q-whooo-are-you
+
+You can get the subflags at whoooo-are-u-helper.challenges.ooo
+
+Threshold starts at 9000 and reduces by 1 every 20 seconds.
+
+whooo-are-u.challenges.ooo 5000

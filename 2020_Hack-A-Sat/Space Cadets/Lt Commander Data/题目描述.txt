@@ -1,0 +1,11 @@
+Space Cadets, 7 points
+Back to Scoreboard
+
+Some challenges require you to download a file. This one has a flag in it.
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/basic-file/basic-file-quebec49065golf.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{quebec49065golf:___a bunch of unguessable stuff___} .

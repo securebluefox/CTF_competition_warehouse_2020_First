@@ -1,0 +1,4 @@
+A Easy PE And A Easy Script 提交32位小写md5(flag) 
+hint1：这是一个正常的可运行的easy的PE 
+hint2：情况不止一种！多看几个程序找找规律 
+hint3：遇到瓶颈时可以想想：初始化后的全局变量真的一定会在data段上吗

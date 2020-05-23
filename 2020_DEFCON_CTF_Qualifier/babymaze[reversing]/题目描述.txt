@@ -1,0 +1,3 @@
+The flag is on the wings of the flying plane. It is possible to get the flag without instrumenting or modifying the binary. Tested on Ubuntu 16.04, Ubuntu 18.04, and Ubuntu 20.04. You should use a system able to run the game at approximately 60 fps. It requires: sudo apt-get install freeglut3
+
+babymaze.challenges.ooo 7777

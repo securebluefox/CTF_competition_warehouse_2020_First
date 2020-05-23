@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="200" version="1.1" viewBox="0 0 158.75 52.917" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(0 -244.08)">
+<circle cx="23.812" cy="270.54" r="19.844" fill="#fff" stroke="#f00" stroke-width="7.9375" style="paint-order:stroke fill markers"/>
+<circle cx="76.729" cy="270.54" r="19.844" fill="#fff" stroke="#f00" stroke-width="7.9375" style="paint-order:stroke fill markers"/>
+<circle cx="129.65" cy="270.54" r="19.844" fill="#fff" stroke="#f00" stroke-width="7.9375" style="paint-order:stroke fill markers"/>
+<path d="m15.875 262.6h15.875l-15.875 15.875h15.875" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="5.2917"/>
+<path d="m66.146 259.96h21.167v21.167h-21.167v-15.875h15.875v10.583h-10.583v-5.2917h5.2917" fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.6458"/>
+<path d="m119.06 259.96v21.167h21.167v-21.167h-15.875v15.875h10.583v-10.583h-5.2917v5.2917" fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.6458"/>
+<path d="m33.734 287.73-19.844-34.37" fill="none" stroke="#f00" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="3.9688"/>
+</g>
+</svg>

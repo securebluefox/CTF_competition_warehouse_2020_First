@@ -1,0 +1,3 @@
+pwn the vfs read the flag from the real fs /root/flag
+
+ooofs.challenges.ooo 5000

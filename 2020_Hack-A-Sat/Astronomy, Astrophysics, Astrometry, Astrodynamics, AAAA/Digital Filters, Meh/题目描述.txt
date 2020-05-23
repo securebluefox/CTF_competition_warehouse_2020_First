@@ -1,0 +1,21 @@
+Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA, 304 points
+Back to Scoreboard
+
+Included is the simulation code for the attitude control loop for a satellite in orbit. A code reviewer said I made a pretty big mistake that could allow a star tracker to misbehave. Although my code is flawless, I put in some checks to make sure the star tracker can't misbehave anyways.
+
+Review the simulation I have running to see if a startracker can still mess with my filter. Oh, and I'll be giving you the attitude of the physical system as a quaternion, it would be too much work to figure out where a star tracker is oriented from star coordinates, right?
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{oscar71224alpha:GAmL-k82HQtoC2B9w4jIzCKNRg8irmLz0CYePfEEtd7_9ePMgMwnn1fiEzwEP6plZg}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on filter.satellitesabove.me:5014 . Using netcat, you might run nc filter.satellitesabove.me 5014
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/fd578f9dee5b5ac45b0717a1c7739606bd27013b/src.tar.gz
+Solving
+Your team's flag for this challenge will look something like flag{oscar71224alpha:___a bunch of unguessable stuff___} .

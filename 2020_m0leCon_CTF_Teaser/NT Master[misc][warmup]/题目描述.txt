@@ -1,0 +1,3 @@
+Everyone says that you're a Number Theory Master, can you prove it?
+nc challs.m0lecon.it 10000
+Author: @mr96

@@ -1,0 +1,3 @@
+introducing TOCTOU resistant memory. flag is in /root/flag
+
+keml.challenges.ooo 5000

@@ -1,0 +1,3 @@
+Execute 'getflag' to get the flag.
+
+ooobash.challenges.ooo 5000

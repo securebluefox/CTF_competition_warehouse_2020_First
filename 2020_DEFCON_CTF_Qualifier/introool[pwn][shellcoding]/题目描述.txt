@@ -1,0 +1,3 @@
+one NOP sled + two patches + three ROP gadgets => flag?
+
+introool.challenges.ooo 4242

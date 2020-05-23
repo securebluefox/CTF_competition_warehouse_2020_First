@@ -1,0 +1,17 @@
+Payload Modules, 436 points
+Back to Scoreboard
+
+The last over-the-space update seems to have broken the housekeeping on our satellite. Our satellite's battery is low and is running out of battery fast. We have a short flyover window to transmit a patch or it'll be lost forever. The battery level is critical enough that even the task scheduling server has shutdown. Thankfully can be fixed without without any exploit knowledge by using the built in APIs provied by kubOS. Hopefully we can save this one!
+
+Note: When you're done planning, go to low power mode to wait for the next transmission window
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{mike40924victor:GFupPvmhMt-kBxi8oN8uZ3aMaJB5R3-NhU90IoMom8JSsVDSemZS2wCP-AkdgP32CA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on spacedb.satellitesabove.me:5062 . Using netcat, you might run nc spacedb.satellitesabove.me 5062
+
+Solving
+Your team's flag for this challenge will look something like flag{mike40924victor:___a bunch of unguessable stuff___} .

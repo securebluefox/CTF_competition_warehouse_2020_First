@@ -1,0 +1,3 @@
+It's time to slide further into insanity. Threshold starts at 1, and after an 8-hour grace period, ticks up by 1 every 84 seconds.
+
+nooopsled.challenges.ooo 5000

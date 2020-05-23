@@ -1,0 +1,5 @@
+After the golf.so (https://ctftime.org/task/11305) challenge at PlaidCTF and the golf(https://oooverflow.io/dc-ctf-2020-quals/) category at DEFCON CTF Quals, here we are with our very own golf challenge!
+nc challs.m0lecon.it 11000
+Note: this challenge has two flags, check CryptoGolf 2.0 if you recovered the second one
+Hint: the limits for the two flags are 128 and 45 requests.
+Author: @mr96

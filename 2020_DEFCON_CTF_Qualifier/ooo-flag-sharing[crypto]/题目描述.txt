@@ -1,0 +1,3 @@
+Share flags safely with the latest OOO service!
+
+ooo-flag-sharing.challenges.ooo 5000

@@ -1,0 +1,1 @@
+Welcome to the 2020 DEF CON CTF quals! Let's start it out with an (almost-)free flag in the file below :)

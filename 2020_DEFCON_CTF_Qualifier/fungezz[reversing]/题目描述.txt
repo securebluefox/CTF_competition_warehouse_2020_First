@@ -1,0 +1,5 @@
+find your flag in the treasure map --> see fungez
+
+Notice: sha256(flag) != 16763d780a05aaf57467e776be17d39f08ab5a62f6caaabe2656d01057b91540 check the updated map
+
+Notice+: there is only one unexpected solution to the old map, sha256(wrong_flag_works_old_map_not_new_map) = e125fb41bc9c1f1d5c2a3a0477ed3ee843122873675c4e91dc8341324347c940, sha256(wrong_flag_works_on_no_map) = 16763d780a05aaf57467e776be17d39f08ab5a62f6caaabe2656d01057b91540

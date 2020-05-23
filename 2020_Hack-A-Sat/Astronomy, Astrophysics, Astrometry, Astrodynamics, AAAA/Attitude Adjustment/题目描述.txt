@@ -1,0 +1,21 @@
+Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA, 190 points
+Back to Scoreboard
+
+Our star tracker has collected a set of boresight reference vectors, and identified which stars in the catalog they correspond to. Compare the included catalog and the identified boresight vectors to determine what our current attitude is.
+
+Note: The catalog format is unit vector (X,Y,Z) in a celestial reference frame and the magnitude (relative brightness)
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{tango28977xray:GK_JG8TZNuRTTJEZDH_5h-EONR_Wiek_SUAOnCDDfa83K9b4s0z6tljZezAXQ4xKYQ}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on attitude.satellitesabove.me:5012 . Using netcat, you might run nc attitude.satellitesabove.me 5012
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/attitude/attitude-tango28977xray.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{tango28977xray:___a bunch of unguessable stuff___} .

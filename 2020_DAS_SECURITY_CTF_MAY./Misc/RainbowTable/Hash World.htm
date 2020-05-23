@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)http://183.129.189.60:10027/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="./Hash World_files/code.css">
+    <link rel="stylesheet" href="./Hash World_files/all.min.css">
+    <link rel="stylesheet" href="./Hash World_files/bootstrap.min.css">
+    <link rel="stylesheet" href="./Hash World_files/templatemo-style.css">
+    <title>Hash World</title>
+<style type="text/css">
+:root .container > a.mid-wrapper,
+:root .container > .pic_container,
+:root .container > .ads
+{ display: none !important; }</style></head>
+
+<body>
+
+    <div style="width: 50%; height: 100%;background-color: #99ccff;position: absolute;">
+        <div style="width: 90%; height: 100%;word-wrap: break-word; margin-left: 5%; overflow:scroll;">
+            <div class="highlight"><pre><span></span>            
+<span class="nx">pragma</span> <span class="nx">solidity</span> <span class="o">^</span><span class="mf">0.4.24</span><span class="p">;</span>
+<span class="nx">contract</span> <span class="nx">Hash</span> <span class="p">{</span>
+
+    <span class="nx">bytes32</span> <span class="nx">question</span> <span class="o">=</span> <span class="s2">""</span><span class="p">;</span>
+    <span class="nx">struct</span> <span class="nx">Game</span> <span class="p">{</span>
+        <span class="nx">bytes32</span> <span class="nx">slogan</span><span class="p">;</span>
+        <span class="nx">address</span> <span class="nx">owner</span><span class="p">;</span>
+        <span class="nx">uint96</span> <span class="nx">times</span><span class="p">;</span>
+        <span class="nx">address</span> <span class="nx">player</span><span class="p">;</span>
+        <span class="nx">bool</span> <span class="nx">ready</span><span class="p">;</span>
+
+    <span class="p">}</span>
+    <span class="nx">Game</span> <span class="nx">game</span><span class="p">;</span>
+
+
+    <span class="nx">modifier</span> <span class="nx">onlyOwner</span><span class="p">(){</span>
+        <span class="nx">require</span><span class="p">(</span><span class="nx">msg</span><span class="p">.</span><span class="nx">sender</span> <span class="o">==</span> <span class="nx">game</span><span class="p">.</span><span class="nx">owner</span><span class="p">,</span> <span class="s2">"Illegal user!"</span><span class="p">);</span>
+        <span class="nx">_</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="nx">modifier</span> <span class="nx">onlyPlayer</span><span class="p">(){</span>
+        <span class="nx">require</span><span class="p">(</span><span class="nx">msg</span><span class="p">.</span><span class="nx">sender</span> <span class="o">==</span> <span class="nx">game</span><span class="p">.</span><span class="nx">player</span><span class="p">,</span> <span class="s2">"Illegal user!"</span><span class="p">);</span>
+        <span class="nx">_</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="nx">constructor</span> <span class="p">(</span><span class="nx">string</span> <span class="nx">hash</span><span class="p">)</span> <span class="kr">public</span><span class="p">{</span>
+        <span class="nx">question</span> <span class="o">=</span> <span class="nx">keccak</span><span class="p">(</span><span class="nx">hash</span><span class="p">);</span>
+        <span class="nx">game</span><span class="p">.</span><span class="nx">slogan</span> <span class="o">=</span> <span class="s2">"Welcome to imagin's Hash World!"</span><span class="p">;</span>
+        <span class="nx">game</span><span class="p">.</span><span class="nx">owner</span> <span class="o">=</span> <span class="nx">msg</span><span class="p">.</span><span class="nx">sender</span><span class="p">;</span>
+
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">getFlag</span><span class="p">()</span> <span class="nx">view</span> <span class="kr">public</span> <span class="nx">returns</span> <span class="p">(</span><span class="nx">bool</span><span class="p">){</span>
+        <span class="k">return</span> <span class="p">(</span><span class="nx">game</span><span class="p">.</span><span class="nx">times</span> <span class="o">==</span> <span class="mi">43856731668828204536206669571</span><span class="p">);</span>
+    <span class="p">}</span>
+
+
+    <span class="kd">function</span> <span class="nx">play</span><span class="p">()</span> <span class="kr">public</span>  <span class="p">{</span>
+        <span class="nx">require</span><span class="p">(</span><span class="nx">game</span><span class="p">.</span><span class="nx">player</span> <span class="o">==</span> <span class="nx">address</span><span class="p">(</span><span class="mi">0</span><span class="p">),</span> <span class="s2">"Have been played!"</span><span class="p">);</span>
+        <span class="nx">game</span><span class="p">.</span><span class="nx">player</span> <span class="o">=</span> <span class="nx">address</span><span class="p">(</span><span class="nx">msg</span><span class="p">.</span><span class="nx">sender</span><span class="p">);</span>
+
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">guessHash</span><span class="p">(</span><span class="nx">string</span> <span class="nx">answer</span><span class="p">)</span> <span class="kr">public</span> <span class="nx">onlyPlayer</span> <span class="nx">payable</span> <span class="nx">returns</span> <span class="p">(</span><span class="nx">string</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">game</span><span class="p">.</span><span class="nx">player</span> <span class="o">=</span> <span class="nx">msg</span><span class="p">.</span><span class="nx">sender</span><span class="p">;</span>
+        <span class="nx">require</span><span class="p">(</span><span class="nx">msg</span><span class="p">.</span><span class="nx">value</span> <span class="o">&gt;</span> <span class="mf">0.1</span> <span class="nx">ether</span><span class="p">,</span> <span class="s2">"Get yourself rich first."</span><span class="p">);</span>
+        <span class="nx">require</span><span class="p">(</span><span class="nx">game</span><span class="p">.</span><span class="nx">ready</span><span class="p">);</span>
+        <span class="nx">game</span><span class="p">.</span><span class="nx">ready</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+        <span class="nx">require</span><span class="p">(</span><span class="nx">isMan</span><span class="p">(),</span> <span class="s2">"You should be real man."</span><span class="p">);</span>
+        <span class="k">if</span><span class="p">(</span> <span class="nx">keccak</span><span class="p">(</span><span class="nx">answer</span><span class="p">)</span> <span class="o">==</span> <span class="nx">question</span> <span class="p">){</span>
+            <span class="nx">game</span><span class="p">.</span><span class="nx">times</span> <span class="o">++</span><span class="p">;</span>
+            <span class="k">return</span> <span class="s2">"Congratulations, you're right~"</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="k">else</span><span class="p">{</span>
+            <span class="nx">game</span><span class="p">.</span><span class="nx">times</span> <span class="o">--</span><span class="p">;</span>
+            <span class="k">return</span> <span class="s2">"Oops, you lost your chance (-1s)."</span><span class="p">;</span>
+        <span class="p">}</span>
+
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">changeSlogen</span><span class="p">(</span><span class="nx">bytes32</span> <span class="nx">slogan</span><span class="p">)</span> <span class="kr">public</span><span class="p">{</span>
+        <span class="nx">Game</span> <span class="nx">a</span><span class="p">;</span>
+        <span class="nx">a</span><span class="p">.</span><span class="nx">slogan</span> <span class="o">=</span> <span class="nx">slogan</span><span class="p">;</span>
+        <span class="nx">game</span> <span class="o">=</span> <span class="nx">a</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">nextHash</span><span class="p">(</span><span class="nx">string</span> <span class="nx">hash</span><span class="p">)</span> <span class="kr">public</span> <span class="nx">onlyOwner</span> <span class="p">{</span>
+        <span class="nx">question</span> <span class="o">=</span> <span class="nx">keccak256</span><span class="p">(</span><span class="nx">hash</span><span class="p">);</span>
+        <span class="nx">game</span><span class="p">.</span><span class="nx">ready</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">keccak</span><span class="p">(</span><span class="nx">string</span> <span class="nx">str</span><span class="p">)</span> <span class="nx">internal</span> <span class="nx">pure</span> <span class="nx">returns</span> <span class="p">(</span><span class="nx">bytes32</span><span class="p">){</span>
+        <span class="k">return</span> <span class="nx">keccak256</span><span class="p">(</span><span class="nx">str</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">getSlogan</span><span class="p">()</span> <span class="nx">view</span> <span class="kr">public</span> <span class="nx">returns</span><span class="p">(</span><span class="nx">bytes32</span><span class="p">){</span>
+        <span class="k">return</span> <span class="nx">game</span><span class="p">.</span><span class="nx">slogan</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nx">isMan</span><span class="p">()</span> <span class="nx">internal</span> <span class="nx">view</span> <span class="nx">returns</span> <span class="p">(</span><span class="nx">bool</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">uint</span> <span class="nx">size</span><span class="p">;</span>
+        <span class="nx">assembly</span> <span class="p">{</span> <span class="nx">size</span> <span class="o">:=</span> <span class="nx">extcodesize</span><span class="p">(</span><span class="nx">caller</span><span class="p">)</span> <span class="p">}</span>
+        <span class="k">return</span> <span class="p">(</span><span class="nx">size</span> <span class="o">==</span> <span class="mi">0</span><span class="p">);</span>
+  <span class="p">}</span>
+
+<span class="p">}</span>
+</pre></div>
+
+        </div>
+
+    </div>
+
+    <div style="width: 50%; height: 100%; margin-left: 50%;">
+        <!--  -->
+        <div class="tm-site-name-container">
+            <div class="tm-site-name-container-inner">
+                <h2 class="text-uppercase tm-text-primary tm-site-name" style="margin-top: 5%">
+                    <div>欢迎来到 imagin 的</div>
+                    <div style="margin-left: 40%">哈希妙妙屋 </div>
+                </h2>
+                <p class="tm-text-primary tm-site-description" style="margin-top: -2%; overflow:hidden;">
+                    👈 这边是源码哦~
+                </p>
+
+                <p>
+                    地址：快来部署合约吧
+                </p>
+                <p>
+                    通知： 发合约干嘛，愣着啊！
+                </p>
+            </div>
+            <!--  -->
+        </div>
+        <section id="gallery" style="margin-left: 3%;margin-top: -7%">
+            <div style="position: absolute; width: 30%; height: 20%;">
+                <div class="container-fluid">
+                    <div class="grid">
+                        <figure class="effect-duke mb-3">
+                            <img src="./Hash World_files/meizi.png" alt="Image" class="img-fluid">
+                            <figcaption>
+                                <h2> <span>下发合约</span></h2>
+                                <p>可能要等一会儿~<br>不会超过一个小时<br>ε=(´ο｀*)))</p>
+                                <a href="http://183.129.189.60:10027/getContract"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div style="position: absolute; width: 30%; height: 20%;margin-left: 16%">
+                <div class="container-fluid">
+                    <div class="grid">
+                        <figure class="effect-duke mb-3">
+                            <img src="./Hash World_files/next.png" alt="" class="img-fluid">
+                            <figcaption>
+                                <h2> <span>NextHash</span></h2>
+                                <p>嗯？<br>猜出来了就再给你发一个(〃'▽'〃)</p>
+                                <a href="http://183.129.189.60:10027/nextHash"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div style="position: absolute; width: 30%; height: 20%;margin-left: 32%">
+                <div class="container-fluid">
+                    <div class="grid">
+                        <figure class="effect-duke mb-3">
+                            <img src="./Hash World_files/flag.png" alt="Image" class="img-fluid">
+                            <figcaption>
+                                <h2> <span>给我弗莱格</span></h2>
+                                <p>Ez task made with 💕<br> (๑╹ヮ╹๑)ﾉ</p>
+                                <a href="http://183.129.189.60:10027/getFlag"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body></html>

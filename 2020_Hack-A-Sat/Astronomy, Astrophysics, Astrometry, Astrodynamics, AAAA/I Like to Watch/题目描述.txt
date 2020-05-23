@@ -1,0 +1,19 @@
+Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA, 62 points
+Back to Scoreboard
+
+Fire up your Google Earth Pro and brush up on your KML tutorials, we're going to make it look at things!
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{november42261november:GJmtRHB1_3PzhDK-VlU5vYSvGCP-R7b7IqmXLZN2oIlJuvmF4lLmFTgDh2td7Q3dNA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on watch.satellitesabove.me:5011 . Using netcat, you might run nc watch.satellitesabove.me 5011
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/a5c679be9509cfdf096add229e84422124804d3a/example.zip
+Solving
+Your team's flag for this challenge will look something like flag{november42261november:___a bunch of unguessable stuff___} .

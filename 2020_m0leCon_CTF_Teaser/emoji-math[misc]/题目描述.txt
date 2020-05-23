@@ -1,0 +1,3 @@
+Everyone loves emojis... Right?
+nc challs.m0lecon.it 10002
+Author: @Blueblaze

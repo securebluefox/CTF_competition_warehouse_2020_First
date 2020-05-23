@@ -1,0 +1,5 @@
+if u thought shellcoding was fun, wait until you try bytecoooding
+
+Threshold starts at 8, and decrements by 1 approximately every 5 hours.
+
+bytecoooding.challenges.ooo 5000

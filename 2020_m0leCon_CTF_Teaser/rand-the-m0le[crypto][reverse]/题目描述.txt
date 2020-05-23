@@ -1,0 +1,2 @@
+We found this binary on a USB... Can you find out what it's doing?
+Author: @matpro

@@ -1,0 +1,26 @@
+Payload Modules, 245 points
+Back to Scoreboard
+
+Time for a really gentle introduction to cFS and Cosmos, hopefully you can schedule time to learn it!
+
+Build instructions:
+
+$ ./setup.sh $ source ~/.bashrc $ rm Gemfile.lock $ bundle install
+
+Hint: You will need to enable telemetry locally on the satellite, the udp forwarder will provide it to you as TCP from there
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{india89304uniform:GLDJBQeMu2OM5QFR49S35SHQA0kifgfDil4CTDvrhZg1WGhNcBcYHZIgBEpGlJQEHQ}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on calendar.satellitesabove.me:5061 . Using netcat, you might run nc calendar.satellitesabove.me 5061
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/186477467f949fb570fd84b176df5ce25b1aa64c/cosmos.tar.gz
+https://static.2020.hackasat.com/c36b4504716f3bc83a99971c169b13efcdff800d/calendar_hint1.zip
+Solving
+Your team's flag for this challenge will look something like flag{india89304uniform:___a bunch of unguessable stuff___} .

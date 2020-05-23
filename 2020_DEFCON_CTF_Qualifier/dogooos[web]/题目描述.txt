@@ -1,0 +1,3 @@
+DogOOOs is a new website where members can rate pictures of dogs. We think there might still be a few bugs, can you check it out? In this challenge, the flag is located in the root directory of the server at /flag. http://dogooos.challenges.ooo:37453
+
+dogooos.challenges.ooo 37453

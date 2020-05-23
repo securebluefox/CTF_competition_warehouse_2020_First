@@ -1,0 +1,1 @@
+Test your nc hint1: /f1a9.bak 你看到了嘛? hint2: 用df命令看看硬盘总共多大，再看看flag多大。

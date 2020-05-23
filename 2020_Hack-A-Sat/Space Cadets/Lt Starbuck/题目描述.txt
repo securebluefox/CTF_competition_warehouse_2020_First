@@ -1,0 +1,15 @@
+Space Cadets, 8 points
+Back to Scoreboard
+
+In this CTF, questions may come in one of three different flavors. The second is a service running on an external host that has the flag on it. Connect to the external host, give it your ticket, solve the problem it asks of you, get the flag, and submit it to the scoreboard to score points. Most of these questions will require you to write a program to interact with the server in order to solve the problem within a strict time limit.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{zulu48535romeo:GC_793CJCdOdLus1LJ5hS0dnUzR3s5OStzUFyLa4IJkOzJn892Kr4Q28KsbHnlTqEA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on intro2.satellitesabove.me:5001 . Using netcat, you might run nc intro2.satellitesabove.me 5001
+
+Solving
+Your team's flag for this challenge will look something like flag{zulu48535romeo:___a bunch of unguessable stuff___} .

@@ -1,0 +1,6 @@
+Another real time message platform! This one(https://challs.m0lecon.it:8002/) is different from the others. It is... WIP! It supports all kind of messages. You can also upload images, videos and record ptt. But please, don't upload big files...
+
+Admin doesn't have internet connection!
+iptables -A OUTPUT -d 127.0.0.1 -j ACCEPT && iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT && iptables -A OUTPUT -j DROP
+
+Author: @andreossido

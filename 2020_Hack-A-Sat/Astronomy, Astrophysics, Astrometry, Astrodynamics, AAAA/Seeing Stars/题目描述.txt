@@ -1,0 +1,17 @@
+Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA, 43 points
+Back to Scoreboard
+
+Here is the output from a CCD Camera from a star tracker, identify as many stars as you can! (in image reference coordinates) Note: The camera prints pixels in the following order (x,y): (0,0), (1,0), (2,0)... (0,1), (1,1), (2,1)…
+
+Note that top left corner is (0,0)
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{juliet78160zulu:GLCqVZ21C-c_NlJTY1QHd0td18Q_DUXWlVh4wJWQ3WZXehrzlBoIEBPk1nX_kmj_vA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on stars.satellitesabove.me:5013 . Using netcat, you might run nc stars.satellitesabove.me 5013
+
+Solving
+Your team's flag for this challenge will look something like flag{juliet78160zulu:___a bunch of unguessable stuff___} .

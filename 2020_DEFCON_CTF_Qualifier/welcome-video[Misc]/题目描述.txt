@@ -1,0 +1,1 @@
+Welcome! Flag format for this challenge is stricter than default: 'OOO{' + '_'.join(video_hints) + '}', regex ^OOO{[a-z0-9_]*}$. https://www.youtube.com/watch?v=W04Wt55v3nE

@@ -1,0 +1,4 @@
+I've developed two services. The first one (https://challs.m0lecon.it:8003/) is an "email" service. I don't have a real mail server, so I use a database to simulate it. You can register any email you want... also @google.com, @facebook.com etc.
+The second one(https://challs.m0lecon.it:8004/) is... nothing. I've just started to develop it. For now you can register, login and recover password. It needs a "real" email, so you can register it using the first service.
+Now, after this premise... I forgot all my passwords. Can you help me to recover them?
+Author: @andreossido

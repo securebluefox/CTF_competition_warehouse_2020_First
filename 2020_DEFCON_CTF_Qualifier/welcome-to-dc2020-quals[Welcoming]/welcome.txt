@@ -1,0 +1,6 @@
+Welcome to the game!
+
+OOO{this_is_the_welcome_flag}Last year people complained that the welcome challenge was too easy (!), so this year we made it very l33t level for them.
+Now submit that flag, stay safe, and good luck with the rest!
+
+As a reminder, unless otherwise noted all our flags are in that format -- OOO{[^}]+}
