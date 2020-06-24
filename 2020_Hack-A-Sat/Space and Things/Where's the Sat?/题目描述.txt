@@ -1,0 +1,16 @@
+Let's start with an easy one, I tell you where I'm looking at a satellite, you tell me where to look for it later.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{romeo30291hotel:GLYjC992wFdnSyh2MnqZOPiSWcChw7Xj1Hvuipyr3dLgjtGywnKv2QvznOuoNnDxsQ}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on where.satellitesabove.me:5021 . Using netcat, you might run nc where.satellitesabove.me 5021
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/320e0c77c598c8e358442b597b1733e2b88656c9/stations.zip
+Solving
+Your team's flag for this challenge will look something like flag{romeo30291hotel:___a bunch of unguessable stuff___} .

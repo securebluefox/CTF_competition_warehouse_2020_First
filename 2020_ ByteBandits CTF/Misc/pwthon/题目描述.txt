@@ -1,3 +1,0 @@
-I like python. It's easy, it's versatile, it's awesome.
-
-nc pwn.byteband.it 7000

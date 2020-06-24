@@ -1,0 +1,10 @@
+Demodulate the data from an SDR capture and you will find a flag. It is a wav file, but that doesn't mean its audio data.
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/phasor/phasor-papa29075alpha.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{papa29075alpha:___a bunch of unguessable stuff___} .
+
+Flag:

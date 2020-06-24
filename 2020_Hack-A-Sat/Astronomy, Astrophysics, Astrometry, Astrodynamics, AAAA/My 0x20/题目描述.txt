@@ -1,0 +1,18 @@
+Back to Scoreboard
+
+This social media app is back with a vengeance!
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{kilo95482hotel:GKbBA0Jg8gCsbwiFPxqxZxODkkJVix5T0fUD0ctiA1YrNqQjSLcPNeJPeXDSHEt3Fg}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on myspace.satellitesabove.me:5016 . Using netcat, you might run nc myspace.satellitesabove.me 5016
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/myspace/myspace-kilo95482hotel.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{kilo95482hotel:___a bunch of unguessable stuff___} .

@@ -1,0 +1,16 @@
+Satellite Internet brought to you by Launchdotcom, first generation prototype, ahead of its time. We've managed to download an early prototype of their payload module. Our team of reverse engineers have analyzed the prototype and developed a suitable emulator for executing the binary firmware extracted from the device. We've included the Emulator and Reverse Engineering notes from our analysis.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{oscar52580kilo:GLgF9SrL9JhVFXtdmLpQamcXyxQExMVibs4LFPmaCtVLXh_K58caVYZaS2syPOsnOg}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on launchlink.satellitesabove.me:5065 . Using netcat, you might run nc launchlink.satellitesabove.me 5065
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/a299718316110835071bf653c04cc9dfbd5dfb09/rfmagic.zip
+Solving
+Your team's flag for this challenge will look something like flag{oscar52580kilo:___a bunch of unguessable stuff___} .

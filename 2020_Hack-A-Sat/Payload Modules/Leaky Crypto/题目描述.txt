@@ -1,0 +1,10 @@
+My crypto algorithm runs in constant time, so I'm safe from sidechannel leaks, right?
+
+Note: To clarify, the sample data is plaintext inputs, NOT ciphertext
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/leaky/leaky-alpha99295delta.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{alpha99295delta:___a bunch of unguessable stuff___} .

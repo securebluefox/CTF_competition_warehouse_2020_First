@@ -1,0 +1,8 @@
+Stunned you figured out that first SDR capture? Time to hack harder to get this flag.
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/phasor2/phasor2-whiskey68664zulu.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{whiskey68664zulu:___a bunch of unguessable stuff___} .

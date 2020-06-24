@@ -1,0 +1,3 @@
+Format strings are so 2000s.
+
+nc pwn.byteband.it 6969

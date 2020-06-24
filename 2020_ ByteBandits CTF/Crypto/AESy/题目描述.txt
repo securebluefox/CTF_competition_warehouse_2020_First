@@ -1,3 +1,0 @@
-Alice made an encryption service for Bob to encrypt his messages and to leave encrypted messages for her. Can you use this service to find the flag?
-
-nc crypto.byteband.it 7004

@@ -1,0 +1,12 @@
+There's a very busy bus we've tapped a port onto, surely there is some juicy information hidden in the device memory... somewhere…
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{oscar12667yankee:GIWYe1PyTHTwBXEiheSYY71Tpy6iNUJYE-TLdk5Ffr4SpR5atFjKBKoV-AUqat0-Rg}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on bus.satellitesabove.me:5041 . Using netcat, you might run nc bus.satellitesabove.me 5041
+
+Solving
+Your team's flag for this challenge will look something like flag{oscar12667yankee:___a bunch of unguessable stuff___} .

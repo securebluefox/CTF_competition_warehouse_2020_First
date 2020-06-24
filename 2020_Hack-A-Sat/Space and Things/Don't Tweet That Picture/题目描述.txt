@@ -1,0 +1,18 @@
+Here are some pictures captured by an imaging satellites. Can you figure out where these pictures were taken from?
+
+The 4 buildings have the same footprint and spaced perfectly around a circle, one positioned at each cardinal direction, the tallest is located at due north.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{papa95930bravo:GHcVOz0_L2wQx2wBh4-NzqDhq8YQ-07HckXSmzpwFwo0NoTcpAmmIjpqVEZiLUNOMw}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on tweet.satellitesabove.me:5022 . Using netcat, you might run nc tweet.satellitesabove.me 5022
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/tweet/tweet-papa95930bravo.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{papa95930bravo:___a bunch of unguessable stuff___} .

@@ -1,4 +1,0 @@
-You can write,
-what can you byte.
-
-nc pwn.byteband.it 9000

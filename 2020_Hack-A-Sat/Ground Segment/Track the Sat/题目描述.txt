@@ -1,0 +1,16 @@
+You're in charge of controlling our hobbiest antenna. The antenna is controlled by two servos, one for azimuth and the other for elevation. Included is an example file from a previous control pattern. Track the satellite requested so we can see what it is broadcasting
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{golf74293alpha:GHM5_cdJki0MVFKorS_w2ay40JBD4r4nAKjBkR5F3mxfzUPhcO7smcH8MGokbj4uIQ}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on trackthesat.satellitesabove.me:5031 . Using netcat, you might run nc trackthesat.satellitesabove.me 5031
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/b05745a1feed6b27afbad7454e9d328d4d00405a/examples.tar.gz
+Solving
+Your team's flag for this challenge will look something like flag{golf74293alpha:___a bunch of unguessable stuff___} .

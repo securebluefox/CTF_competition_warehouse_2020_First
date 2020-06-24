@@ -1,0 +1,16 @@
+aunchDotCom's Carnac 3.0 flight software is communicating over a TCP port but all you have is its comms-service binary to figure out its protocol and how it works. Maybe it has a flaw you can exploit.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{xray15883whiskey:GBz9IV_fxZs_VjoZbEvPNUNdFeZGiL-ZRtVXbXBtecf8v_pbpBfKj2_uCew7EJb5xA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on spacerace.satellitesabove.me:5063 . Using netcat, you might run nc spacerace.satellitesabove.me 5063
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/219093d06088d8e4a22079a9f53f6c2aa9d01122/space_race.zip
+Solving
+Your team's flag for this challenge will look something like flag{xray15883whiskey:___a bunch of unguessable stuff___} .

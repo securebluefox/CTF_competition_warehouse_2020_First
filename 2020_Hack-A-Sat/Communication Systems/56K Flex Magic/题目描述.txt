@@ -1,0 +1,18 @@
+Anyone out there speak modem anymore? We were able to listen in to on, maybe you can ask it for a flag…
+
+UPDATE: Since everyone is asking, yes...a BUSY signal when dialing the ground station is expected behavior.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{xray51258victor:GK7ZJJAtFFeBqHJxGAlKUWxRMDZtZVqIzkcm4kcsiTLpGKc0erwhSTZAlRH6P5SAFw}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on modem.satellitesabove.me:5052 . Using netcat, you might run nc modem.satellitesabove.me 5052
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/modem/modem-xray51258victor.tar.bz2
+Solving
+Your team's flag for this challenge will look something like flag{xray51258victor:___a bunch of unguessable stuff___} .

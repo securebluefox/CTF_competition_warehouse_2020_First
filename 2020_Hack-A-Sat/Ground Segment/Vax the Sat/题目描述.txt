@@ -1,0 +1,17 @@
+It's still the 70's in my ground station network, login to it and see if you can get a flag from it.
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{alpha53513sierra:GBqpSXPwHl1dUsLTjKuAwpP6xUuxOOSBiXO7hDmqdkrPkFPxJTvepGZQplWSN73OIA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on vax.satellitesabove.me:5035 . Using netcat, you might run nc vax.satellitesabove.me 5035
+
+Files
+You'll need these files to solve the challenge.
+
+https://generated.2020.hackasat.com/vaxthesat/vaxthesat-alpha53513sierra.tar.bz2
+https://static.2020.hackasat.com/2282d39c1d30b59739733d5f0751a2c81e080796/VAXtheSAT.zip
+Solving
+Your team's flag for this challenge will look something like flag{alpha53513sierra:___a bunch of unguessable stuff___} .

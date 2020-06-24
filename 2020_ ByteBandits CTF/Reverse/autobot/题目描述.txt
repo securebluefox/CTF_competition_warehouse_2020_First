@@ -1,3 +1,0 @@
-Decepticons are coming.
-
-nc pwn.byteband.it 6000

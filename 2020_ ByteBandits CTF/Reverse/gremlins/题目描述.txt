@@ -1,3 +1,0 @@
-There's a gremlin in my machinery. I guess it'll stop working soon. Can you help me?
-
-u32 table[10][2] = { {0xff, 1}, {0xfe, 2}, {0xfd, 3}, {0xfc, 4}, {0xfb, 5}, {0x00, 5}, {0x01, 4}, {0x02, 3}, {0x03, 2}, {0x04, 1} };

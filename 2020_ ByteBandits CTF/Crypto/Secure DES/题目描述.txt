@@ -1,3 +1,0 @@
-Can you decrypt this secure cipher ?
-
-nc crypto.byteband.it 7001

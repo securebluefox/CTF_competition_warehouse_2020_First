@@ -1,0 +1,17 @@
+LaunchDotCom has a new satellite, the Carnac 2.0. What can you do with it from its design doc?
+
+Ticket
+Present this ticket when connecting to the challenge:
+ticket{charlie26196lima:GMHOk2UvLaE9xgGERb0vMXoEN_FVnW3PC7kNFFeVSE0hKu2aTT-Zk4uxX224OztUrA}
+Don't share your ticket with other teams.
+
+Connecting
+Connect to the challenge on goose.satellitesabove.me:5033 . Using netcat, you might run nc goose.satellitesabove.me 5033
+
+Files
+You'll need these files to solve the challenge.
+
+https://static.2020.hackasat.com/bee6d2abe5f9584cdb3cc5cfb992e6d0d296bdaa/LaunchDotCom_Carnac_2.zip
+https://static.2020.hackasat.com/f672797d6ee126b10ad14716f1d840d925c95ce9/cmd_telemetry_defs.zip
+Solving
+Your team's flag for this challenge will look something like flag{charlie26196lima:___a bunch of unguessable stuff___} .
