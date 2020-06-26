@@ -1,0 +1,2 @@
+The magic key's type is like abcd_efgh_...and there is seven rules limit the key.
+
