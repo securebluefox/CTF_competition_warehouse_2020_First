@@ -1,0 +1,5 @@
+pwn me to get the second flag
+
+$ nc pwnable.org 21387
+
+file

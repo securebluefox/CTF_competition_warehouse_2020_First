@@ -1,0 +1,11 @@
+RCE + SBX = Fullchain.
+
+No surprise, the bug is same as previous, but how about the exploits? :p
+
+nc pwnable.org 2337
+
+Attachment here
+
+Enviroment: Ubuntu18.04
+
+NOTE: The configuration of this challenge is copied from PlaidCTF 2020 - mojo. Thanks!

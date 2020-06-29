@@ -1,0 +1,9 @@
+Sandbox Gogogo!
+
+nc pwnable.org 1337
+
+Attachment here
+
+Enviroment: Ubuntu18.04
+
+NOTE: The configuration of this challenge is copied from PlaidCTF 2020 - mojo. Thanks!

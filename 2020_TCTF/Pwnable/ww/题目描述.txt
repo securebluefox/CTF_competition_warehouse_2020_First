@@ -1,0 +1,9 @@
+more flag without web pls.
+
+flag file is flag
+
+file of this challenge is same as the one in w
+
+file
+
+nc pwnable.org 20206

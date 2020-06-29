@@ -1,0 +1,6 @@
+Have a try with my simple echoserver! But don't attack it.
+Your name and phone are logged in the background.
+
+nc pwnable.org 12020
+
+simple_echoserver    libc-2.27.so

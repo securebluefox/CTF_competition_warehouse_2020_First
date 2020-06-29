@@ -1,0 +1,3 @@
+Let's play some emoji!
+
+nc pwnable.org 31322

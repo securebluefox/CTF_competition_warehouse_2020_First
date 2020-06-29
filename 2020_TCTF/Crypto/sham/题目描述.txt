@@ -1,0 +1,3 @@
+Look at my new hash. You can try it here http://pwnable.org:10002/
+
+sham_1abc55860e453619482de930fcf44562.tar.gz
