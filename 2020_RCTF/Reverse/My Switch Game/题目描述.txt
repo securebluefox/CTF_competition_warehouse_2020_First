@@ -1,0 +1,3 @@
+Have fun in my interesting snake game :)
+
+Relay bt traffic and capture by https://github.com/mart1nro/joycontrol.  

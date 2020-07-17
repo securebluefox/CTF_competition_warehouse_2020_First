@@ -1,0 +1,6 @@
+hint1: 远程环境开启了ASLR
+There are ASLR in the remote environment, you need to bypass it.
+hint2: 由于远程环境的问题，可能要多跑几次exp脚本才能拿到flag
+For the remote environment reason, maybe you need to run the exp script many times to get the flag. Sorry for it.
+hint3: 远程拿不了shell，用orw的方法来拿flag.
+For the remote environment reason, you can't getshell , use orw to get the flag instead. 

@@ -1,0 +1,2 @@
+Option 1, get an account which will be used to deploy the contract; Before option 2, please transfer some eth to this account (for gas); Option 2, the robot will use the account to deploy the contract for the problem; Option 3, use this option to obtain the flag after the event is triggered. You can finish this challenge in a lot of connections.
+

@@ -1,0 +1,7 @@
+Malware analysis 010，try find the flag：RCTF{****}
+
+The files provided by the two urls below are completely the same. Choose the one you like.
+
+link1: https://drive.google.com/open?id=1pdsk_wgmdf0uM0QRl_s7omC-E0DgtyFB
+
+link2: https://share.weiyun.com/eRXXgZAA
