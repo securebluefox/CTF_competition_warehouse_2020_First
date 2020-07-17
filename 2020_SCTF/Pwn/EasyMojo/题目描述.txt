@@ -1,0 +1,30 @@
+Chrome full chain exploit
+Chromium version: x64 release 85.0.4154.0
+OS : Windows Server 2019, build 17763.1282
+chrome.dll.pdb: 
+https://yunpan.360.cn/surl_yYh5wP8rI2h （password：f056）
+https://mega.nz/file/AzABkIwC#UUrNfJc6S1IjeLwVZOlYV3dfb-rwboPg5eQCes0rfvo
+
+Before exploiting you need to send a string which length is 36 as your token.
+When you choose to upload a .zip, remember to put all .html and .js into the root of the .zip, and then name the webpage to be loaded as "exploit.html".
+Once you exploit successfully, execute "C:\Users\pwnbox\EasyMojo\readflag.exe <token>" to get flag.
+
+If you don't exploit once, try a few more times. And if the server is not responding immediately, it may be because the maximum number of connections has been reached, please be patient.
+China:
+nc 47.108.71.166 23333
+Overseas:
+nc 47.251.35.157 23333
+Attachment:
+https://yunpan.360.cn/surl_yYhWecUZhzQ （password：a76d）
+https://mega.nz/file/ZmIUgAZR#fZ4iiG_WGzkTpxMqWsHQVAzpazcBHa4t81QQMQ8OEcc
+hint1:
+```python
+def POW(sample_hash):
+    for c in itertools.product(string.printable[0:36], repeat=5):
+        sample = f"SCTF{''.join(c)}"
+        if sha256(sample.encode('utf-8')).hexdigest() == sample_hash:
+            return sample
+
+```
+hint2:
+ROP is very unstable :)

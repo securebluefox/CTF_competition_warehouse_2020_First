@@ -1,0 +1,7 @@
+EoP after resolving EasyWinHeap.
+The binary files are located in c:\users\pwn\EoP, and flag.txt is located in the administrator's desktop.
+china and overseas:
+EasyWinHeap 
+server 47.94.245.208
+hint:
+Try to exploit logic bug instead of memory corruption

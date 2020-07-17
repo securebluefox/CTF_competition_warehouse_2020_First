@@ -1,0 +1,7 @@
+Time is flag!
+1.Please do not use the scanner, it will not work.
+2.Please do not try to brute-force username and password, it will not work.
+3.Please do not damage the application context with malicious intent.
+4.The server reboots every two hour.
+China && Overseas:
+http://120.24.35.104:8888

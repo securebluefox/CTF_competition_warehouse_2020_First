@@ -1,0 +1,6 @@
+don't need to scan , flag is in /flag .The server is remade every 3 minutes. good luck to you
+if you get the flag, please don't destory the environment.
+China:
+http://39.99.41.124/public/
+Overseas:
+http://8.208.80.80/public/

@@ -1,0 +1,3 @@
+welcome to sctf2020,here is your flag:
+t.me/SCTF2020
+

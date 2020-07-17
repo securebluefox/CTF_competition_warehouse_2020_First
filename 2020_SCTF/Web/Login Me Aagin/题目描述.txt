@@ -1,0 +1,14 @@
+Java is jar and war!
+1.Please do not use the scanner, it will not work.
+2.Please do not try to brute-force username and password, it will not work.
+3.Please do not damage the application context with malicious intent.
+4.The server cannot access the Internet.
+http://120.79.1.217/login
+Attachment:
+https://drive.google.com/file/d/1K3dN10MbEVBc31Z1S5xhMHQOTSB85ltZ/view?usp=sharing
+
+Hint：
+step 1 : Establish proxy by register filter or servlet dynamically
+step 2 :  https://gv7.me/articles/2020/how-to-detect-tomcat-ajp-lfi-more-accurately/  && https://issues.apache.org/jira/browse/SHIRO-760
+
+By the way,the server reset every 30 minutes

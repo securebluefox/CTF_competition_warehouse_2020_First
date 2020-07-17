@@ -1,0 +1,11 @@
+I know my code is bad, but there should not be a lot of vulnerabilities
+China：
+http://39.104.19.182
+Overseas：
+http://8.208.80.172
+Attachment:
+china:
+https://sctf2020.oss-cn-huhehaote.aliyuncs.com/jsonhub-cn.zip
+overseas:
+https://drive.google.com/file/d/1KNMco3xVK4JpUpSzk9YqNifekVKu1yJA/view?usp=sharing
+PS: This challenge differs from China to oversea, so make sure you have the right attachment according to your ip before you start the challenge. 

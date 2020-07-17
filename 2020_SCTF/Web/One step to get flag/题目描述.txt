@@ -1,0 +1,14 @@
+Try to bypass a mounted Rails engine WAF that rudely blocks all access to the /getflag.
+
+8.208.89.219:8080/getflag
+
+Hint1:
+  config/route.rb:
+  Waf::Engine.routes.draw do
+    get '*all', to: 'requests#block'
+  end
+
+  get 'getflag', to: 'application#getflag'
+
+Hint2:
+  RoR follows the "Convention Over Configuration" principle, e.g., there is some sort of routing convention between the high-level Rails apps
