@@ -1,0 +1,1 @@
+Try to get the secret from SafeBox! Flag is at /home/pwn/flag【大部分flag为此形式：flag{可见字符串}或DASCTF{可见字符串}，只需提交花括号内的可见字符串（大小写敏感）；如果flag为其他形式，题目中会单独说明。】

@@ -1,0 +1,1 @@
+Crypto Warm up！flag为flag{xxx}中32位的hash值
