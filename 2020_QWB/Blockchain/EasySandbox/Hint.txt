@@ -1,0 +1,1 @@
+2.增加提示文件下载 1. Your goal is to empty balance of contract. Not need to emit event.
