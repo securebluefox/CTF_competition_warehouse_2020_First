@@ -1,0 +1,7 @@
+XCTFer, do you know XWiki?
+题目每10分钟重启，如遇到无法连接，请稍等片刻10秒左右会全部重启完毕
+This topic restart every 10 minitues. If you can't connect, please wait for a while and the restart will be completed. Do not panic
+China：
+119.3.111.133 1234
+Overseas：
+45.77.161.86 1234

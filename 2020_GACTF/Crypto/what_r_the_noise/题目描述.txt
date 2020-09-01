@@ -1,0 +1,6 @@
+噪音太大，听不见
+
+Too noisy to hear anything
+
+China:124.71.145.165:9999 
+Overseas: 45.32.47.185:9999

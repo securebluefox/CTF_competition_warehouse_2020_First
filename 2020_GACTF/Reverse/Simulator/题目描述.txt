@@ -1,0 +1,3 @@
+Study 《Introduction to Computer System》 carefully,the format of flag is GACTF{}
+
+Overseas：https://drive.google.com/file/d/1teyf_l5ZC4XO8AJ-pUVy5Bz0k-r3MFrg/view?usp=sharing

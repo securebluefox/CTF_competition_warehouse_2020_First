@@ -1,0 +1,10 @@
+This question is a simple reverse!
+hint1:理清程序逻辑，看看程序是对数据怎么做校验的？
+hint1: clarify the program logic and see how the program checks the data?
+hint2:程序是静态链接的，使用比较知名的library，不要被library的代码迷惑了
+The program is statically linked, use the well-known library, don't be confused by the library code
+hint3:程序使用了一个不是很常见的对称加密算法
+Hint3: the program uses a less common symmetric encryption algorithm
+
+Overseas:
+https://drive.google.com/file/d/10bE9ukokUflfNIvPu7srWWbbTY9Wftrw/view?usp=sharing

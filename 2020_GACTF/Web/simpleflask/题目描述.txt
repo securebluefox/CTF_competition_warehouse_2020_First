@@ -1,0 +1,7 @@
+题目每10分钟重启，如遇到无法连接，请稍等片刻10秒左右会全部重启完毕
+This topic restart every 10 minitues. If you can't connect, please wait for a while and the restart will be completed. Do not panic
+
+China：
+124.70.153.63 80-89
+Overseas：
+149.28.80.82 80-89

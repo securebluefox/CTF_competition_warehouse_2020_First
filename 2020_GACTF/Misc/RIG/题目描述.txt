@@ -1,0 +1,9 @@
+RIG是一个小有名气的黑客，圈内人都叫他exploit kid。RIG最近开发出了一套攻击工具包，利用浏览器漏洞在网络上兴风作浪。作为一个安全工程师的你，需要从捕获到的报文中找到RIG的攻击流量，从攻击流量中找到RIG使用的shellcode，提交shellcode的前13个字节的大写hex数据作为flag,温馨提示,请勿轻易运行哦:)  
+RIG is a small well-known hacker, and everyone in the circle calls him an exploit kid. RIG has recently developed a set of attack toolkits to use browser vulnerabilities to make waves on the Internet. As a security engineer, you need to find the attack traffic of RIG from the captured packets, find the shellcode used by RIG from the attack traffic, and submit the first 13 bytes of uppercase hex data of the shellcode as the flag. Warm reminder, please Don't run it easily :)  
+
+
+China:
+链接：https://pan.baidu.com/s/1mvGGiI5Jtd3xKmQ6uPOY4A 
+提取码：elwg
+Overseas:
+https://drive.google.com/drive/folders/1_jw9rYOzmDGHjGd---TBAZUtDh-utu_Tz?usp=sharing

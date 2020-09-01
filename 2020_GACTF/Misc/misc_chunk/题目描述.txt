@@ -1,0 +1,15 @@
+这是一道披着pwn皮的misc题
+
+like pwn but misc
+
+**URL**
+China:
+121.37.132.75 7777
+121.37.160.64 8888
+Overseas: 
+108.160.128.22 8124
+
+**Attachment**
+链接：https://pan.baidu.com/s/1D0uE7O54ZaCvJuErPhPJJw 
+提取码：gkju
+https://drive.google.com/drive/folders/1ONnyYau7y2peP54kuMS_04Vf6JmML5BK?usp=sharing

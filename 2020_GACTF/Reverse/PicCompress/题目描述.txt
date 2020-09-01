@@ -1,0 +1,5 @@
+hint1:压缩方法是使用数据的重复信息来进行数据压缩
+hint1:The compression method is to compress the data by using the repeated information of the data
+
+Overseas:
+https://drive.google.com/file/d/1DyXTcuyQvNUCrxK4ZyXoE5h3i7pAn8KD/view?usp=sharing
